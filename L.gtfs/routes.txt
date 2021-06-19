@@ -1,0 +1,871 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type
+5953y0552717,SK,53,Orchard Road / Griffin Road - Lower Marsh,Plumstead Station - Woolwich - Blackheath - New Cross - Elephant & Castle - Lambeth North,3
+1NTNy051325802,LUL,,Morden - High Barnet,Morden -  Bank/Charing Cross - Camden Town - Edgware/High Barnet/Mill Hill East,1
+1PICy05580834,LUL,,Heathrow Terminal 5 - Cockfosters,Heathrow Airport/Uxbridge - Hammersmith - Cockfosters,1
+1CENy05700825,LUL,,West Ruislip - Epping,Ealing Broadway/West Ruislip - Liverpool Street - Epping/Hainault/Woodford,1
+1NTNy05486215,LUL,,Morden - High Barnet,Morden - Charing Cross - Camden Town - Edgware/High Barnet/Mill Hill East,1
+6086y0553410,IF,86,Stratford Bus Station - Romford Station,Stratford - Forest Gate - Manor Park - Ilford - Seven Kings - Chadwell Heath - Romford Station,3
+49111y0552616,LU,111,Heathrow Central Bus Station - Cromwell Road Bus Station,Heathrow Central - Cranford - Heston - Hounslow - Hanworth - Hampton - Kingston,3
+6055y0553496,IF,55,Walthamstow Bus Station - Great Titchfield Street / Oxford Circus Station,Walthamstow - Leyton  Bakers Arms - Lea Bridge Road - Clapton - Hackney - Shoreditch - Clerkenwell - Holborn - Oxford Circus,3
+1DISy051500122,LUL,,Ealing Broadway - Upminster Station,Ealing Broadway/Richmond/Wimbledon - Earl's Court - Upminster/Edgware Road,1
+4857y0552818,LG,57,Fairfield Bus Station - Atkins Road / New Park Road,Kingston - Wimbledon - Clapham Park,3
+49220y0553208,LU,220,Willesden Junction Station - Mapleton Crescent,Willesden Junction - Hammersmith - Putney Bridge - Wandsworth,3
+8229y0553853,MN,229,Thamesmead Town Centre - Queen Mary's Hospital / Chislehurst Road,Thamesmead - Abbey Wood - Belvedere - Erith - Barnehurst - Bexleyheath - Bexley - Sidcup - Queen Mary's Hospital,3
+4970y0551171,LU,70,Chiswick Business Park - Queensberry Place,Chiswick  Business Park - Acton - East Acton - Ladbroke Grove - Queensway - Notting Hill Gate - South Kensington,3
+51358y0551147,ME,358,Orpington Bus Station - Crystal Palace Parade,Orpington - Farnborough - Bromley - Shortlands - Beckenham - Penge - Crystal Palace,3
+1JUBy05150811,LUL,,Stanmore Station - Stratford Station,Stanmore - Waterloo - Stratford,1
+1PICy05246201,LUL,,Heathrow Terminal 5 - Cockfosters,Heathrow Airport/Rayners Lane - Acton Town // Hyde Park Corner - Cockfosters,1
+60174y0553790,IF,174,Dagnam Park Square - C E M E,Harold Hill  Dagnam Park Square - Gallows Corner - Romford Station - Dagenham Heathway - Dagenham  Marsh Way,3
+1DISy05226212,LUL,,Ealing Broadway - Upminster Station,Ealing Broadway - Acton Town // South Kensington - Upminster,1
+4965y0553730,LU,65,Brook Street (KT1) - Ealing Broadway,Kingston - Richmond - Kew Bridge - Brentford - South Ealing - Ealing Broadway,3
+1CIRy05350166,LUL,Circle,Barking Station - Barking Station,Hammersmith - King's Cross St. Pancras - Victoria - Edgware Road,1
+45188y0553527,LC,188,North Greenwich Station - Russell Square,North Greenwich - Greenwich - Surrey Quays - Bermondsey - Tower Bridge Road - Elephant & Castle - Waterloo - Russell Square,3
+8243y0552655,MN,243,Redvers Road - Waterloo Station/Mepham Street,Wood Green - Tottenham - Waterloo,3
+6062y0551660,IF,62,Marks Gate Billet Road - Gascoigne Estate,Marks Gate - Chadwell Heath - Becontree - Barking - Barking  Gascoigne Estate,3
+61183y0553610,SV,183,Golders Green - Pinner,Golders Green - Hendon - Kingsbury - Kenton - Harrow - North Harrow - Pinner,3
+1CIRy059185821,LUL,Circle,Barking Station - Barking Station,Hammersmith - King's Cross St. Pancras - Victoria - Edgware Road,1
+8102y0550959,MN,102,Edmonton Green Bus Station - Brent Cross Shopping Centre,Edmonton Green - Muswell Hill - Golders Green - Brent Cross,3
+59177y0551515,SK,177,Thamesmead Town Centre - Peckham Bus Station,Thamesmead - Greenwich - Peckham,3
+48493y0553217,LG,493,St George's / Univ of London - Richmond / Manor Road,Tooting - Putney - Richmond,3
+59122y0549361,SK,122,Plumstead Road / Plumstead Station - Crystal Palace Parade,Plumstead - Lewisham - Forest Hill - Sydenham - Crystal Palace,3
+45176y0553525,LC,176,Penge / Pawleyne Arms - Tottenham Court Road / Great Russell Street,Penge - Sydenham - Forest Hill - Dulwich - Camberwell - Elephant & Castle - Waterloo - Trafalgar Square - Tottenham Court Road,3
+4888y0552724,LG,88,Parliament Hill Fields - Omnibus Clapham,Parliament Hill Fields - Camden Town - Oxford Circus - Westminster - Vauxhall - Clapham Common,3
+6425y0554001,TN,25,Holborn Circus - Hainault Street,City Thameslink - Bank - Aldgate - Whitechapel - Bow - Stratford - Forest Gate - Manor Park - Ilford,3
+4551y0553027,LC,51,Woolwich High Street - Orpington,Woolwich - Sidcup - Orpington,3
+6025y0551952,IF,25,Holborn Circus - Hainault Street,City Thameslink - Aldgate - Whitechapel - Mile End - Bow - Stratford - Forest Gate - Manor Park - Ilford,3
+8121y0552950,MN,121,Enfield Island Village - Turnpike Lane,Enfield Lock  Island Village - Southgate - Turnpike Lane Station,3
+45321y0551791,LC,321,Foots Cray Tesco - New Cross Gate Sainsbury's,Foots Cray - Eltham - Lewisham - New Cross Gate,3
+8157y0553690,SL,157,Crystal Palace Bus Station - Morden,Crystal Palace - Croydon - Morden,3
+51208y0550153,ME,208,Lewisham Station - Orpington / Perry Hall Road,Lewisham - Bromley - Orpington,3
+60145y0546920,IF,145,Dagenham Asda - Leytonstone Station,Dagenham - Ilford - Leytonstone,3
+8341y0553125,MN,341,Glover Drive / Ikea - Waterloo Station / Waterloo Rd,Northumberland Park  Angel Road Superstores - Tottenham - Newington Green - Islington - Aldwych - Waterloo,3
+8149y0550383,MN,149,Edmonton Green Bus Station - London Bridge Bus Station,Edmonton Green - Tottenham - Stoke Newington - Liverpool Street - London Bridge,3
+4918y0552537,LU,18,Sudbury & Harrow Road - Euston Station,Sudbury - Wembley - Harlesden - Harrow Road - Baker Street - Euston,3
+64328y0553852,TN,328,Golders Green - Limerston Street,Golders Green - West Hampstead - Kilburn - Westbourne Park - Earls Court - Chelsea,3
+860y0551985,SL,60,Oasis Academy Coulsdon - Streatham Station,Old Coulsdon - Purley - Croydon - Streatham,3
+8123y0549120,MN,123,Lordship Lane - Hainault Street,Wood Green - Tottenham - Blackhorse Road - Charlie Brown's Roundabout - Gants Hill - Ilford,3
+59136y0552508,SK,136,Grove Park Bus Station - E & C / Newington Causeway,Grove Park - Peckham - Elephant & Castle,3
+4918y0552534,LU,18,Sudbury & Harrow Road - Euston Station,Sudbury - Wembley - Harlesden - Harrow Road - Baker Street - Euston,3
+21345y0553715,CX,345,Peckham Bus Station - Natural History Museum /Cromwell Road,Peckham - Camberwell - Brixton - Stockwell - Clapham - Battersea - South Kensington,3
+49148y0553521,LU,148,Denmark Hill /Camberwell Green - White City Bus Station,Camberwell Green - Elephant & Castle - Westminster - Victoria - Marble Arch - Notting Hill Gate - White City,3
+5947y0551556,SK,47,Newquay Road - Shoreditch,Catford Bus Garage - Lewisham - Surrey Quays - London Bridge - Shoreditch,3
+4876y0553514,LG,76,Tottenham Hale Bus Station - Lower Marsh,Tottenham Hale - Stamford Hill - Stoke Newington - Dalston - Hoxton - Moorgate - London Wall  - St Paul's - Aldwych - Waterloo,3
+64452y0553116,TN,452,Station Terrace - Vauxhall Bus Station,Kensal Rise - Sloane Square - Vauxhall,3
+4893y0551405,LG,93,Priory Road (SM3) - Putney Bridge,North Cheam - Wimbledon - Putney Bridge,3
+49285y0552615,LU,285,Heathrow Central Bus Station - Cromwell Road Bus Station,Heathrow Central - Hatton Cross - Feltham - Hanworth - Teddington - Hampton Wick - Kingston,3
+49281y0553359,LU,281,Hounslow Bus Station - Tolworth Tower,Hounslow - Kingston - Tolworth,3
+8468y0551706,SL,468,Swan & Sugar Loaf - Borough Road (SE1),South Croydon - West Norwood - Elephant & Castle,3
+59314y0551511,SK,314,Eltham Bus Station - Salcot Crescent,Eltham - New Eltham - Elmstead Woods - Bromley - Hayes - New Addington,3
+1CIRy05146201,LUL,Circle,Barking Station - Barking Station,Hammersmith - King's Cross St. Pancras - Aldgate,1
+21427y0553936,TE,427,York Road (UB8) - King Street (W3),Uxbridge - Hayes End - Southall - Ealing Hospital - Hanwell - West Ealing - Ealing Broadway - Ealing Common - Acton  High Street,3
+60205y0554068,IF,205,Cleveland Terrace - Bow Church Station,Paddington - Euston - King's Cross - Angel - Old Street - Liverpool Street - Aldgate - Whitechapel - Mile End - Bow Church,3
+4814y0552924,LG,14,Putney Heath / Green Man - Russell Square,Putney Heath - Putney Bridge - Fulham Broadway - South Kensington - Piccadilly Circus - Russell Square,3
+8221y0552975,MN,221,Edgware - Turnpike Lane,Edgware - Mill Hill - North Finchley - Friern Barnet - Bounds Green - Wood Green - Turnpike Lane Station,3
+49105y0553889,LU,105,Rockware Avenue /Greenford Stn - Heathrow Central Bus Station,Greenford Station - Greenford Broadway - Dormers Wells - Southall - Heston - Cranford - Heathrow Central,3
+4536y0553273,LC,36,Claremont Road (W9) - New Cross Bus Garage,Queen's Park - Victoria - New Cross Gate,3
+4589y0551993,LC,89,Lewisham Station - Forest Rd / Slade Green Stn,Lewisham - Blackheath - Shooters Hill - Welling - Bexleyheath - Slade Green,3
+5975y0551852,SK,75,Lewisham Station - Fairfield Halls,Lewisham - Catford - Bell Green - Penge - Anerley - Norwood Junction - Croydon Town Centre,3
+48131y0552821,LG,131,Fairfield Bus Station - Tooting Broadway,Kingston - New Malden - Raynes Park - Wimbledon - Colliers Wood - Tooting Broadway,3
+21109y0554217,CX,109,Taberner House - Brixton,Croydon Town Centre - Thornton Heath Pond - Norbury - Streatham - Brixton,3
+4563y0553788,LC,63,Forest Hill Tavern - King's Cross Stn / York Way,Honor Oak - Elephant & Castle - King's Cross,3
+4811y0553784,LG,11,Fulham Town Hall - Appold Street,Fulham Broadway - Chelsea - Victoria - Westminster - Aldwych - St Paul's Cathedral - Liverpool Street,3
+45185y0553266,LC,185,Lewisham Station - Victoria,Lewisham - Vauxhall - Victoria,3
+6428y0553851,TN,28,Station Terrace - Mapleton Crescent,Kensal Rise - Fulham - Wandsworth,3
+45180y0552099,LC,180,Crabtree Manorway North - Molesworth Street,Belvedere Industrial Area - Abbey Wood - Woolwich - Greenwich - Lewisham,3
+5443y0552221,ML,43,Halliwick Park - London Bridge Bus Station,Friern Barnet - Muswell Hill - Highgate - Archway - Holloway Road - Islington - Moorgate - London Bridge,3
+8141y0545657,MN,141,Tottenhall Rd/ Nth Circular Rd - London Bridge Bus Station,Palmers Green - Wood Green - Harringay - Manor House - Newington Green - Hoxton - Moorgate - London Bridge,3
+45453y0553911,LC,453,Deptford Bridge - Great Central Street,Deptford Bridge - Old Kent Road - Elephant & Castle - Lambeth North - Westminster - Oxford Circus - Marylebone,3
+59422y0553255,SK,422,North Greenwich Station - Bexleyheath Clocktower,North Greenwich - Westcombe Hill - Charlton Village - Woolwich - Plumstead - East Wickham - Bexleyheath  Shopping Centre,3
+49E3y0553206,LU,E3,Clifton Road (UB6) - Edensor Road / New Chiswick Pool,Greenford - Acton - Chiswick,3
+48191y0550638,LG,191,Edmonton Green Bus Station - Brimsdown Station,Edmonton Green - Enfield - Brimsdown,3
+8254y0552726,MN,254,Aldgate Bus Station - Caledonian Road,Aldgate - Clapton - Holloway  Nags Head,3
+48213y0553214,LG,213,Fairfield Bus Station - Sutton Bus Garage,Kingston - Worcester Park - Sutton,3
+6097y0553464,IF,97,Chingford Station - Stratford City Bus Station,Chingford - Walthamstow - Leyton - Stratford,3
+6056y0553442,IF,56,Whipps Cross Bus Stand - St. Bartholomews Hospital,Whipps Cross - Bakers Arms - Lea Bridge Road - Clapton - Dalston - Essex Road - Angel - Barbican - St Bartholmew's Hospital,3
+4535y0552544,LC,35,Clapham Junction Station / Falcon Road - Shoreditch,Clapham Junction - Clapham Common - Brixton - Camberwell - Elephant & Castle - London Bridge - Liverpool Street - Shoreditch,3
+4537y0551547,LC,37,Putney Heath / Green Man - Peckham Bus Station,Putney Heath - Clapham Junction - Brixton - Peckham,3
+165y0549428,BE,5,Romford Market - Canning Town,Romford - Barking - Canning Town,3
+8250y0552588,SL,250,Brixton Rd /Brixton Police Stn - West Croydon Bus Station,Brixton - Streatham - Norbury - Thornton Heath Pond - West Croydon,3
+21207y0553494,TE,207,Hayes By-Pass - White City Bus Station,Hayes - Ealing Broadway - White City,3
+64425y0550109,TN,425,Hainault Street - Kenninghall Road,Ilford - Stratford - Bow Church - Mile End - Victoria Park - Homerton Hospital - Clapton  Nightingale Road,3
+4563y0552656,LC,63,Forest Hill Tavern - King's Cross Stn / York Way,Honor Oak - Elephant & Castle - King's Cross,3
+4521y0551555,LC,21,Lewisham Centre - Newington Green,Lewisham - New Cross - Old Kent Road - Borough - London Bridge - Moorgate - Hoxton - Newington Green,3
+834y0550903,MN,34,Barnet High St / Barnet Church - Walthamstow Bus Station,Barnet - Arnos Grove - Edmonton - Walthamstow Central,3
+59161y0554136,SK,161,Chislehurst War Memorial - North Greenwich Station,Chislehurst - Woolwich - North Greenwich,3
+8158y0553057,MN,158,Chingford Mount - Stratford Bus Station,Chingford Mount - Blackhorse Road - Leyton - Stratford,3
+49148y0553519,LU,148,Denmark Hill /Camberwell Green - White City Bus Station,Camberwell Green - Elephant & Castle - Westminster - Victoria - Marble Arch - Notting Hill Gate - White City,3
+45108y0551885,LC,108,Stratford International - Canning Town,Stratford International - North Greenwich - Lewisham,3
+838y0551694,MN,38,Clapton Pond - Victoria Bus Station,Clapton Pond - Hackney Central - Essex Road - Holborn - Piccadilly Circus - Victoria,3
+6423y0553892,TN,23,Great Western Road (W10) - Hammersmith Bus Station,Westbourne Park - Marble Arch - Hammersmith,3
+819y0552695,MN,19,Finsbury Park Interchange - Parkgate Road_ Battersea,Finsbury Park - Piccadilly Circus - Battersea Bridge,3
+21381y0553711,CX,381,Peckham Bus Station - County Hall,Peckham - Surrey Quays - Rotherhithe - London Bridge - Waterloo,3
+4512y0553786,LC,12,Oxford Circus Stn /Margaret St - Dulwich Library,Oxford Circus - Westminster - Elephant & Castle - Camberwell - Peckham - Dulwich Library,3
+48118y0552672,LG,118,Brixton Rd /Brixton Police Stn - Morden,Brixton - Streatham - Morden,3
+5954y0549668,SK,54,Elmers End Interchange - Plumstead Road / Burrage Road,Elmers End - Beckenham - Woolwich,3
+45171y0553702,LC,171,Newquay Road - Lambeth Road,Bellingham  Catford Bus Garage - Brockley - New Cross - Peckham - Elephant & Castle,3
+1METy053410816,LUL,,Amersham - Aldgate,Amersham/Chesham/Uxbridge/Watford - Baker Street - Aldgate,1
+6458y0548541,TN,58,East Ham / Central Park - Walthamstow Bus Station,East Ham  Central Park - Upton Park - Forest Gate - Leyton - Walthamstow Central,3
+6413y0553236,TN,13,North Finchley Bus Station - Victoria Bus Station,North Finchley - Swiss Cottage - Victoria,3
+48154y0553227,LG,154,West Croydon Bus Station - Morden,West Croydon - Waddon - Roundshaw - Carshalton Beeches - Sutton - St Helier - Morden,3
+2127y0554167,CX,27,Hammersmith (Ham & City Line) - Chalk Farm Morrisons,Hammersmith - Kensington - Notting Hill Gate - Edgware Road - Camden - Chalk Farm,3
+76276y0550889,DC,276,Gateway Surgical Centre - Stoke Newington Common,Newham Hospital - West Ham Station - Stratford - Hackney Wick - Homerton - Hackney Central - Stoke Newington,3
+54186y0553676,ML,186,Northwick Park Hosp Social Club - Brent Cross Shopping Centre,Northwick Park Hospital - Harrow - Wealdstone - Belmont - Edgware - Mill Hill - Grahame Park - Hendon Central - Brent Cross,3
+82y0554289,SL,2,Marylebone Station - West Norwood Bus Garage,Marylebone - Victoria - Vauxhall - Stockwell - Brixton - Tulse Hill - West Norwood,3
+4811y0553490,LG,11,Fulham Town Hall - Appold Street,Fulham Broadway - Chelsea - Victoria - Westminster - Aldwych - St Paul's Cathedral - Liverpool Street,3
+82y0553206,SL,2,Marylebone Station - West Norwood Bus Garage,Marylebone - Victoria - Vauxhall - Stockwell - Brixton - Tulse Hill - West Norwood,3
+864y0551842,SL,64,Thornton Heath Pond - Vulcan Way,Thornton Heath Pond - West and East Croydon - Selsdon - Addington Village - New Addington,3
+45343y0554075,LC,343,Aldgate - New Cross / Jerningham Road,Aldgate - Tower Bridge - City Hall - Elephant & Castle - Aylesbury Estate - Southampton Way - Peckham - Nunhead - New Cross Gate,3
+21159y0552942,CX,159,Streatham Station - Marble Arch,Streatham - Brixton - Marble Arch,3
+4540y0553799,LC,40,Dulwich / The Plough - Farringdon,Dulwich Library - East Dulwich - Camberwell - Elephant & Castle - Blackfriars - Farringdon - Clerkenwell Green,3
+2124y0553820,CX,24,Grosvenor Road - Royal Free Hospital,Pimlico - Camden Town - Hampstead Heath,3
+4994y0553749,LU,94,Acton Green - Charles II Street,Acton Green - Shepherd's Bush - Notting Hill Gate - Marble Arch - Oxford Circus - Piccadilly Circus,3
+8319y0546393,SL,319,Telford Avenue - Cadogan Gardens /Sloane Square,Streatham Hill - Clapham Junction - Sloane Square,3
+51119y0553028,ME,119,Bromley North Station - The Colonnades Croydon Airport,Bromley - Hayes (Kent) - Croydon,3
+4877y0546319,LG,77,Waterloo Station - Tooting Station,Waterloo - Clapham Junction - Tooting,3
+16147y0549624,BE,147,Hainault Street - Canning Town,Ilford - East Ham - Canning Town,3
+48170y0552322,LG,170,Danebury Avenue /Minstead Gdns - Eccleston Bridge,Roehampton  Danebury Avenue - Putney Heath - Wandsworth - Clapham Junction - Battersea - Victoria,3
+8249y0551987,SL,249,The Pavement - Jasmine Grove,Clapham Common - Norwood - Anerley,3
+45386y0552011,LC,386,Woolwich High Street - Royal Parade (SE3),Woolwich - Queen Elizabeth Hospital - Blackheath,3
+60128y0554013,IF,128,Romford Station - Clayhall Avenue / Claybury Broadway,Romford Station - Becontree Heath - Goodmayes - Ilford - Barkingside - Claybury Broadway,3
+54113y0550816,ML,113,Edgware - John Princes St /Oxford Circus,Edgware - Mill Hill - Hendon Central - Finchley Road - Baker Street - Oxford Circus,3
+51197y0550436,ME,197,Peckham Bus Station - Park Street,Peckham - Forest Hill - Sydenham - Penge - Norwood Junction - Woodside - Croydon Town Centre,3
+8259y0552728,MN,259,Edmonton Green Bus Station - King's Cross Rd/Pentonville Rd,Edmonton Green - Tottenham - Seven Sisters - Manor House - Finsbury Park - Holloway - King's Cross,3
+54182y0540242,ML,182,Bannister Playing Fields - Brent Cross Shopping Centre,Harrow Weald - Harrow - Wembley - Neasden - Brent Cross,3
+8133y0548031,SL,133,Streatham Station - Liverpool Street Station,Streatham Station - Kennington Station - Liverpool Street,3
+8192y0553832,MN,192,Little Park Gardens - Tottenham Hale Bus Station,Enfield Town - Edmonton Green - Tottenham Hale,3
+21267y0554179,TE,267,Hammersmith Bus Station - South Road / Fulwell,Hammersmith - Brentford - Fulwell,3
+48280y0553838,LG,280,St George's Hospital - Belmont Stn / Brighton Road,Tooting  St George's Hospital - Tooting - Mitcham - Rose Hill - Sutton - Belmont,3
+8184y0543681,MN,184,Turnpike Lane Bus Station - Chesterfield Road (EN5),Turnpike Lane - Wood Green - Arnos Grove - Barnet  Chesterfield Road,3
+850y0550467,SL,50,Park Lane / Fairfield Halls - Clapham Road / Stockwell Station,Croydon Town Centre - Thornton Heath - Norbury - Streatham Hill - Stockwell,3
+49H32y0553890,LU,H32,School Road (TW3) - Southall Town Hall,Hounslow Bus Station - Hounslow West - Heston - Convent Way Estate - Southall Station - Southall  Town Hall,3
+8253y0552726,MN,253,Hackney Central Station - Euston Bus Station,Hackney Central - Finsbury Park - Camden Town - Euston,3
+829y0553078,MN,29,Lordship Lane - Trafalgar Square,Wood Green - Finsbury Park - Camden Town - Trafalgar Square,3
+8194y0547263,SL,194,Bell Green / Sainsbury's - West Croydon Bus Station,Lower Sydenham - Penge - Kent House - Clock House - Beckenham - Eden Park - West Wickham - Shirley - East Croydon - West Croydon,3
+54114y0547072,MT,114,Mill Hill Broadway - Ruislip,Mill Hill - Harrow - Ruislip,3
+1VICy05420825,LUL,,Brixton - Walthamstow Central Station,Brixton - Victoria - Walthamstow Central,1
+4874y0553374,LG,74,Putney Exchange - Baker Street Station,Putney  High Street - West Brompton - Earl's Court - South Kensington - Hyde Park Corner - Marble Arch - Baker Street,3
+54263y0547261,ML,263,Highbury Barn - Barnet Hospital,Highbury Barn - Holloway Road - Archway - Highgate - East Finchley - North Finchley - Whetstone - Barnet Hospital,3
+61139y0553752,SV,139,Golders Green - Waterloo Station / Waterloo Rd,Golders Green - West Hamptead - Waterloo,3
+899y0552495,MN,99,Woolwich High Street - Geddes Place,Woolwich - Erith - Bexleyheath,3
+49H98y0553890,LU,H98,School Road (TW3) - Wood End Green Road,Hounslow  Bus Station - Hounslow West - Cranford - Harlington - Hayes - Church Road - Hayes End,3
+74463y0552786,EB,463,Coulsdon South - Pollards Hill,Coulsdon South - The Mount - Wallington - Beddington - Mitcham Eastfields - Pollards Hill,3
+59261y0551043,SK,261,Lewisham Station - Princess Royal University Hosp,Lewisham - Lee - Grove Park - Plaistow Green - Bromley - Bromley Common - Princess Royal University Hospital,3
+60366y0551491,IF,366,Falmouth Gardens - Beckton Bus Station,Redbridge - Barking - Beckton,3
+2168y0552253,CX,68,St Julian's Farm Road - Euston Bus Station,West Norwood - Waterloo - Euston,3
+8410y0553363,SL,410,Crystal Palace Bus Station - Shotfield,Crystal Palace - Norwood Junction - Davidson Road - Croydon - Waddon - Wallington,3
+48232y0552219,LG,232,Mitchell Way - Turnpike Lane,St Raphael's - Brent Cross - Arnos Grove - Turnpike Lane,3
+49266y0550873,LU,266,Acton Old Town Hall - Brent Cross Shopping Centre,Acton  High Street - Horn Lane - North Acton - Willesden Junction - Harlesden - Willesden - Cricklewood - Brent Cross,3
+48151y0553568,LG,151,Shotfield - Worcester Park,Wallington - Hackbridge - St Helier - Sutton - Cheam - Worcester Park,3
+21C10y0550424,CX,C10,Canada Water Bus Station - Victoria Stn / Grosvenor Gdns,Canada Water - Elephant & Castle - Victoria,3
+64W15y0553349,TN,W15,William Morris School - Hackney Town Hall,Higham Hill Estate - Walthamstow Central - Bakers Arms - Whipps Cross - Leyton - Homerton - Hackney Town Hall,3
+54C11y0552894,ML,C11,Archway Station - Brent Cross Shopping Centre,Archway - Parliament Hill Fields - Belsize Park - Swiss Cottage - West Hampstead - Cricklewood - Brent Cross,3
+8160y0552646,MN,160,Thomas Lane - Sidcup,Catford Bridge - Hither Green - Eltham - New Eltham - Chislehurst - Sidcup Station,3
+21414y0552604,CX,414,Putney Bridge - Chippenham Road,Putney Bridge - Hyde Park Corner - Maida Hill,3
+51127y0551826,ME,127,Purley - Tooting Broadway,Purley - Wallington - Mitcham - Tooting Broadway,3
+51455y0550914,ME,455,Canons Hill - Wallington,Wallington - Croydon - Purley,3
+8450y0549059,SL,450,West Croydon Bus Station - Bell Green / Sainsbury's,West Croydon - Crystal Palace - Lower Sydenham,3
+6469y0552789,TN,69,Walthamstow Bus Station - Canning Town,Walthamstow Central - Bakers Arms - Leyton - Maryland - Stratford - Plaistow - Canning Town,3
+21367y0551423,CX,367,West Croydon Bus Station - Bromley North Station,West Croydon - Addiscombe - Shirley - Elmers End - Beckenham - Shortlands - Bromley North,3
+49211y0553529,LU,211,Hammersmith Bus Station - Waterloo Station/Upper Taxi Rd,Hammersmith - Fulham Broadway - Victoria - Waterloo,3
+54222y0549628,MT,222,Uxbridge Station - Hounslow Bus Station,Uxbridge - West Drayton - Hounslow,3
+54260y0554183,ML,260,White City Bus Station - Golders Green,White City - North Acton - Central Middlesex Hospital - Harlesden - Willesden - Cricklewood - Golders Green,3
+4933y0553191,LU,33,Fulwell - Lonsdale Road,Fulwell - Richmond - Castlenau,3
+8289y0551676,SL,289,Elmers End Interchange - Purley,Elmers End - Croydon - Purley,3
+6179y0548173,SV,79,Alperton Sainsbury's - Edgware,Alperton - Wembley - Preston Road - Kingsbury - Queensbury - Edgware,3
+59273y0551044,SK,273,Conington Road - Station Square /Petts Wood Stn,Lewisham - Chislehurst - Petts Wood,3
+76135y0554067,DC,135,Crossharbour Asda - Moorfields Eye Hospital,Crossharbour - Cubitt Town - Island Gardens - Canary Wharf - Limehouse - Aldgate - Liverpool Street - Shoreditch - Old Street Station,3
+60179y0551427,IF,179,Chingford Station - Hainault Street,Chingford Station - Woodford Wells - South Woodford - Gants Hill - Ilford,3
+60277y0553706,IF,277,Dalston Junction Station - Isle of Dogs Asda,Dalston Junction - Hackney Central - Victoria Park - Mile End - Burdett Road - Westferry - Canary Wharf - Mudchute - Crossharbour,3
+5446y0550830,ML,46,Lancaster Gate Station - St. Bartholomews Hospital,Lancaster Gate - Paddington - Maida Vale - Swiss Cottage - Hampstead - Camden - King's Cross - Barts Hospital,3
+61326y0552659,SV,326,The Spires - Brent Cross Shopping Centre,Barnet - Whetstone - Brent Cross,3
+60474y0551310,IF,474,Hermit Road - Manor Park Rail Station,Canning Town - East Ham - Manor Park,3
+49H37y0551747,LU,H37,Hounslow_ Blenheim Centre - Manor Road (TW9),Hounslow - Isleworth - Richmond (Manor Circus),3
+8333y0551386,SL,333,Mitcham Road /Tooting Broadway - E & C / Newington Causeway,Tooting Broadway - Streatham - Streatham Hill - Brixton - Oval - Kennington - Elephant & Castle,3
+59181y0552450,SK,181,Lewisham Station - Grove Park Bus Station,Lewisham - Catford - Lower Sydenham - Grove Park,3
+51162y0547693,ME,162,Beckenham Junction Station - Eltham Bus Station,Beckenham Junction - Park Langley - Bromley - Chislehurst - New Eltham - Eltham Station,3
+49H22y0550165,LU,H22,The Bell - Manor Road (TW9),Hounslow  Bell Corner - Whitton - Twickenham - Richmond  Manor Circus,3
+45436y0551518,LC,436,Molesworth Street - Battersea Park Station,Lewisham - Vauxhall - Battersea Park,3
+2124y0550776,CX,24,Grosvenor Road - Royal Free Hospital,Pimlico - Camden Town - Hampstead Heath,3
+54295y0553974,MT,295,Ladbroke Grove Sainsbury's - Clapham Junction Station / The Falcon,Ladbroke Grove  Sainsbury's - Latimer Road - Shepherds Bush - Hammersmith - Fulham Broadway - Clapham Junction,3
+54134y0549442,ML,134,North Finchley Bus Station - University College Hospital  / Euston Road,North Finchley - Friern Barnet - Muswell Hill - Highgate - Archway - Kentish Town - Camden Town - Warren Street,3
+54483y0547588,MT,483,Ealing Hospital - Harrow Bus Station,Ealing Hospital - Ealing Broadway - Alperton - Wembley Central - North Wembley - Harrow,3
+49265y0553042,LU,265,Putney Bridge - Tolworth / King Charles Road,Putney Bridge - Roehampton - Tolworth,3
+8149Hy0550376,MN,149,Edmonton Green Bus Station - London Bridge Bus Station,Edmonton Green - Tottenham - Stoke Newington - Liverpool Street - London Bridge,3
+8149Hy0550377,MN,149,Edmonton Green Bus Station - London Bridge Bus Station,Edmonton Green - Tottenham - Stoke Newington - Liverpool Street - London Bridge,3
+49306y0549410,LU,306,Second Avenue (W3) - Sands End / Sainsbury's,Acton Vale - Askew Road - Hammersmith - West Kensington - Fulham Broadway - Fulham  Sands End,3
+60252y0553814,IF,252,Collier Row Library - Hornchurch Town Centre,Collier Row - North Street - Romford - Roneo Corner - Elm Park - Airfield Way - Hornchurch  Town Centre,3
+4844y0553274,LG,44,Victoria - Tooting Station,Victoria - Wandsworth - Tooting,3
+49H91y0553211,LU,H91,Hounslow West - Hammersmith Bus Station,Hounslow West - Osterley - Hammersmith,3
+41W19y0548868,HY,W19,Staffa Road - Hainault Street,Walthamstow  Argall Avenue - Walthamstow Central - Whipps Cross - Leytonstone - Manor Park - Ilford,3
+873y0552437,MN,73,Holles Street - Stoke Newington Common,Oxford Circus - King's Cross - Essex Road - Newington Green - Stoke Newington,3
+48152y0543957,LG,152,South Lodge Avenue / Yorkshire Road - Walton Avenue,Pollards Hill - Raynes Park - New Malden,3
+48155y0553033,LG,155,St George's Hospital - Lambeth Road,Tooting  St George's Hospital - Balham - Clapham - Stockwell - Kennington - Elephant & Castle,3
+5961y0552744,SK,61,Chislehurst / Gordon Arms - Bromley North Station,Chislehurst - Orpington - Locksbottom - Bromley Common - Bromley North,3
+60294y0552970,IF,294,Havering Park - Wincanton Road_ Noak Hill,Havering Park - Romford - Noak Hill,3
+48270y0549976,LG,270,Putney Bridge - Madeira Road,Putney Bridge - Wandsworth - Mitcham,3
+4971y0552167,LU,71,Chessington World Of Adventures - Cromwell Road Bus Station,Chessington - Surbiton - Kingston,3
+54297y0547486,ML,297,Pound Lane / Willesden Bus Garage - Ealing Broadway Station / Haven Green,Willesden  Bus Garage - Neasden - Wembley - Alperton - Perivale - Castlebar Hill - Ealing Broadway,3
+54282y0551462,MT,282,Ealing Hospital - Mount Vernon Hospital,Ealing Hospital - Northolt - Mount Vernon Hospital,3
+213y0553710,CX,3,Whitehall / Horseguards Avenue - Crystal Palace Parade,Whitehall  Horse Guards - Brixton - Crystal Palace,3
+54282y0552439,MT,282,Ealing Hospital - Mount Vernon Hospital,Ealing Hospital - Northolt - Mount Vernon Hospital,3
+5490y0550653,ML,90,Northolt Station - Feltham Leisure West,Northolt - Yeading - Kingshill Avenue - Hayes - Harlington - Hatton Cross - Feltham,3
+59P4y0548233,SK,P4,Lewisham Station - Brixton,Lewisham - Forest Hill - Brixton,3
+49C1y0553225,LU,C1,Victoria - White City Bus Station,Victoria - Sloane Square - Knightsbridge - South Kensington - Earl's Court - Kensington - White City,3
+48476y0549456,LG,476,Northumberland Park - King's Cross Stn / York Way,Northumberland Park - Tottenham - Stoke Newington - Angel - King's Cross,3
+21196y0552272,CX,196,E & C / Newington Causeway - Norwood Junction Station,Elephant & Castle - Brixton - Norwood Junction,3
+451y0551988,LC,1,New Oxford Street - Canada Water Bus Station,Tottenham Court Road - Waterloo - Canada Water,3
+21344y0552666,CX,344,Clapham Junction Station - Liverpool Street Station,Clapham Junction - Vauxhall - Elephant & Castle - Liverpool Street,3
+45132y0551934,LC,132,North Greenwich Station - Geddes Place,North Greenwich - Eltham - Bexleyheath,3
+54125y0554026,ML,125,Station Road_ Winchmore Hill - Colindale Station,Winchmore Hill - Southgate - Osidge - Whetstone - North Finchley - Finchley Central - Church End - Colindale Station,3
+59336y0551022,SK,336,Thomas Lane - Locksbottom / Pallant Way,Catford - Bromley - Locksbottom,3
+60169y0545644,IF,169,Clayhall / The Glade - Barking Town Centre,Clayhall - Barkingside - Newbury Park - Ilford - Loxford - Barking,3
+4822y0553199,LG,22,Putney Common - Margaret Street /Oxford Circus,Putney Common - Parsons Green - Chelsea - Sloane Square - Hyde Park Corner - Oxford Circus,3
+608y0554123,IF,8,Bow Church - St Giles High Street,Bow Church - Liverpool Street - Tottenham Court Road,3
+49371y0552823,LU,371,Manor Road / Sainsburys - Kingston Hall Road,Richmond  Manor Circus - Ham - Tudor Drive - Norbiton - Kingston,3
+859y0553583,SL,59,Telford Avenue - Euston Bus Station,Streatham Hill - Brixton - Kennington - Waterloo - Holborn - Euston,3
+8230y0553442,MN,230,Fyfield Road (E17) - Wood Green Station,Upper Walthamstow - Tottenham Hale - Wood Green,3
+4126y0551209,HY,26,St Mary Of Eton Church - Waterloo Station / Waterloo Rd,Hackney Wick - Liverpool Street - Waterloo,3
+1METy052045816,LUL,,Amersham - Aldgate,Amersham/Chesham/Uxbridge/Watford - Baker Street - Aldgate,1
+8173y0550971,MN,173,Beckton Bus Station - King George Hospital,Beckton - Dagenham - King George Hospital,3
+61H12y0554063,SV,H12,Stanmore Station - South Harrow Bus Station,Stanmore - Harrow Weald - Hatch End - Pinner - South Harrow,3
+60248y0553791,IF,248,Romford Market - Moor Lane_ Cranham,Romford Market - Romford Station - Roneo Corner - Hornchurch - Upminster Bridge - Upminster - Cranham,3
+59124y0549747,SK,124,Stanstead Rd/St Dunstans - Southend Crescent/Southend Clo,Catford - Grove Park - Eltham,3
+59199y0553345,SK,199,Canada Water Bus Station - Catford Garage,Canada Water - Deptford - Greenwich - Lewisham - Bellingham  Catford Bus Garage,3
+54204y0550586,MT,204,Sudbury Town Station - Edgware,Sudbury Town - Wembley - Preston Road - Kingsbury - Colindale - Grahame Park - Burnt Oak - Edgware,3
+21109y0554144,CX,109,Taberner House - Brixton,Croydon Town Centre - Thornton Heath Pond - Norbury - Streatham - Brixton,3
+61251y0551786,SV,251,Arnos Grove - Edgware,Arnos Grove - Mill Hill - Edgware,3
+48G1y0552790,LG,G1,Hermitage Lane - Shaftesbury Est /Wickersley Rd,Streatham  Green Lane - Tooting - St George's Hospital - Burntwood - Wandsworth Common -  Clapham Junction - Battersea  Shaftesbury Estate,3
+1615y0553652,BE,15,Blackwall - Charing Cross,Blackwall - Aldgate - Bank - Aldwych - Charing Cross,3
+49211y0552879,LU,211,Hammersmith Bus Station - Waterloo Station/Upper Taxi Rd,Hammersmith - Fulham Broadway - Victoria - Waterloo,3
+546y0553377,ML,6,Bertie Road - Aldwych / Drury Lane,Willesden  Bus Garage - Kensal Rise - Queens Park - Edgware Road - Hyde Park Corner - Piccadilly Circus - Aldwych,3
+45P12y0551553,LC,P12,Surrey Quays Shopping Centre - Brockley Rise / Chandos,Surrey Quays - South Bermondsey - Peckham - Nunhead - Brockley Rise,3
+51202y0550034,ME,202,Crystal Palace Parade - Blackheath / Royal Standard,Crystal Palace - Sydenham - Catford - Lee Green - Blackheath Village - Blackheath  Royal Standard,3
+25DLRy058,DLR,DLR,Bank - Lewisham Station,Bank/Tower Gateway/Stratford/Stratford International - Beckton/Lewisham/Woolwich Arsenal,2
+5430y0552997,ML,30,Portman Street / Selfridges - Hackney Wick / Trowbridge Rd,Marble Arch - Euston - King's Cross - Islington - Dalston - Hackney Central - Hackney Wick,3
+51320y0551813,ME,320,Biggin Hill Valley - Catford Bridge,Biggin Hill Valley - Bromley - Catford,3
+54393y0548396,ML,393,Upper Clapton Road / Brooke Road - Chalk Farm Morrisons,Clapton Pond - Stoke Newington - Highbury - Holloway Road - North Road - Kentish Town - Chalk Farm,3
+4540y0552545,LC,40,Dulwich / The Plough - Farringdon,Dulwich Library - East Dulwich - Camberwell - Elephant & Castle - Blackfriars - Farringdon - Clerkenwell Green,3
+60165y0553788,IF,165,The Brewery - Abbey Wood Lane,Romford  The Brewery - Romford Station - Hornchurch - Elm Park - Rainham  Abbey Wood Lane,3
+21K1y0553733,TE,K1,New Malden Station - Cromwell Road Bus Station,New Malden Station - Malden Manor - Tolworth - Surbiton - Kingston,3
+5492y0551900,MT,92,Ealing Hospital - Ikea Brent Park,Ealing Hospital - Greenford - Sudbury - Wembley - St Rapheal's North,3
+76300y0550865,DC,300,Wordsworth Health Centre - Canning Town,East Ham - Beckton - Prince Regent - Canning Town,3
+5483y0540285,MT,83,Golders Green - Alperton,Golders Green - Wembley - Alperton Station,3
+54140y0546813,ML,140,Hayes & Harlington - Long Elmes_ Harrow Weald,Hayes & Harlington Station - Yeading - Northolt - South Harrow - Roxeth - Harrow - Wealdstone - Harrow Weald  Bus Garage,3
+21195y0552466,TE,195,Romney Road - Brentford County Court,Charville Lane Estate - Church Road - Hayes - Bulls Bridge - Southall - Ealing Hospital - Boston Manor - Brentford  County Court,3
+54245y0554182,ML,245,Alperton Sainsbury's - Golders Green,Alperton  Sainsbury's - Sudbury - North Wembley - Neasden - Cricklewood - Childs Hill - Golders Green,3
+4888By0549149,LG,88,Parliament Hill Fields - Omnibus Clapham,Parliament Hill Fields - Camden Town - Oxford Circus - Westminster - Vauxhall - Clapham Common,3
+51355y0544728,ME,355,Three Kings Pond - Brixton,Mitcham - Balham - Brixton,3
+5431y0551777,ML,31,Bayham Street - White City Bus Station,Camden Town - Kilburn Park - Westbourne Park - Notting Hill Gate - White City,3
+48337y0553214,LG,337,Northcote Road (SW11) - Richmond Bus Station,Clapham Junction - Putney - Richmond,3
+21P13y0551450,CX,P13,Streatham Station - New Cross Gate Sainsbury's,Streatham - Peckham - New Cross Gate,3
+54210y0552893,ML,210,Finsbury Park Bus Station - Brent Cross Shopping Centre,Finsbury Park - Archway - Highgate - Golders Green - Woodstock - Brent Cross,3
+5495y0551904,MT,95,Southall Broadway - Shepherd's Bush Green / Uxbridge Road,Southall Town Hall - Park Royal - Shepherd's Bush,3
+54226y0554181,MT,226,Haven Green / Ealing Broadway - Golders Green,Ealing Broadway - Harlesden - Golders Green,3
+54390y0553241,ML,390,Archway Station - Victoria Bus Station,Archway - Tufnell Park - King's Cross - Oxford Circus - Victoria,3
+8144y0547565,MN,144,Muswell Hill Broadway - Edmonton Green Bus Station,Muswell Hill - Wood Green - Edmonton Green,3
+54120y0552196,ML,120,Hounslow Bus Station - Northolt Station,Hounslow  Bus Station - Heston - Southall - Yeading  White Hart - Northolt,3
+60257y0553443,IF,257,Stratford Bus Station - Walthamstow Bus Station,Stratford - Maryland - Leytonstone - Whipps Cross - Bakers Arms - Walthamstow Central,3
+8106y0550500,MN,106,Finsbury Park Interchange - Cavell Street,Finsbury Park - Clapton - Whitechapel,3
+21156y0553940,CX,156,Wimbledon Bus Station - Vauxhall Bus Station,Wimbledon - Wimbledon Park - Wandsworth - Clapham Junction - Battersea Park Station - Vauxhall,3
+8W3y0549435,MN,W3,Northumberland Park - Finsbury Park,Northumberland Park - Wood Green - Alexandra Palace - Finsbury Park,3
+499y0551212,LU,9,Aldwych / Somerset House - Hammersmith Bus Station,Aldwych - Green Park - Hammersmith,3
+49K2y0552824,LU,K2,Kingston Hospital - Hook Parade,Kingston Hospital - Surbiton - Hook,3
+1BAKy05450112,LUL,,Elephant & Castle Station - Harrow & Wealdstone Station,Elephant & Castle - Queen's Park - Harrow & Wealdstone,1
+4542y0554064,LC,42,East Dulwich Sainsbury's - Appold Street,East Dulwich  Sainsbury's - Denmark Hill - Camberwell Green - East Street - Tower Bridge - Aldgate - Liverpool Street,3
+8279Hy0550396,MN,279,Waltham Cross Bus Station - Manor House,Waltham Cross - Manor House,3
+8279Hy0550399,MN,279,Waltham Cross Bus Station - Manor House,Waltham Cross - Manor House,3
+48219y0548770,LG,219,Francis Grove - Falcon Lane,Wimbledon - South Wimbledon - Tooting - Wandsworth Common - Clapham Junction,3
+2149y0553876,CX,49,Northcote Road (SW11) - White City Bus Station,Clapham Junction - Battersea - Chelsea - South Kensington - Kensington - White City,3
+59472y0549457,SK,472,North Greenwich Station - Thamesmead Town Centre,North Greenwich - Plumstead - Thamesmead,3
+59356y0547542,SK,356,Sydenham Hill / Kirkdale - Wickham Road_ Shirley,Upper Sydenham - Elmers End - Shirley,3
+54120y0551386,ML,120,Hounslow Bus Station - Northolt Station,Hounslow  Bus Station - Heston - Southall - Yeading  White Hart - Northolt,3
+48200y0552631,LG,200,Lambton Road - Mitcham Fair Green,Raynes Park - Wimbledon - Mitcham,3
+8279Jy0550396,MN,279,Waltham Cross Bus Station - Manor House,Waltham Cross - Manor House,3
+8279Jy0550399,MN,279,Waltham Cross Bus Station - Manor House,Waltham Cross - Manor House,3
+16115y0550975,BE,115,East Ham / Central Park - Aldgate,East Ham  Central Park - Upton Park - Canning Town - Limehouse - Stepney - Aldgate,3
+4880y0550388,LG,80,Downview and Highdown Prisons - Reynolds Close,Belmont Prisons - Morden - Hackbridge - Reynold's Close,3
+45286y0552782,LC,286,Queen Mary's Hospital / Cancer Unit - Greenwich Town Cen/ Cutty Sark,Queen Mary's Hospital - Sidcup - Eltham - Blackheath (Royal Standard) - Westcombe Park - East Greenwich - Greenwich  Cutty Sark,3
+8269y0552497,MN,269,Bexleyheath Clocktower - Bromley North Station,Bexleyheath - Sidcup - Bromley North,3
+64236y0552813,TN,236,Finsbury Park Interchange - Hackney Wick,Finsbury Park - Newington Green - Dalston - Hackney Central - Hackney Wick,3
+5498y0553893,ML,98,Pound Lane / Willesden Bus Garage - Red Lion Square,Willesden - Kilburn - Holborn,3
+16364y0550624,BE,364,Hainault Street - Ballards Road,Ilford - Becontree - Dagenham East,3
+48430y0553375,LG,430,Danebury Avenue /Minstead Gdns - Victoria & Albert Museum,Roehampton  Danebury Avenue - Dover House Road - Putney - West Brompton - South Kensington,3
+21H28y0554011,TE,H28,Bulls Bridge Tesco - Gillette Corner Tesco,Bulls Bridge - Heston - Hounslow - Spring Grove - Osterley  Tesco,3
+8242y0549933,MN,242,Homerton Hospital / Wardle St - Aldgate,Homerton Hospital - Hackney Central - Dalston - Shoreditch - Liverpool Street - Aldgate,3
+64228y0552902,TN,228,Central Middlesex Hospital - Chippenham Road /Shirland Road,Central Middlesex Hospital - White City - Maida Hill,3
+8198y0552777,SL,198,Shrublands / Bramble Close - Talbot Road_ Thornton Heath,Shrublands - Croydon - Thornton Heath,3
+859y0549459,SL,59,Telford Avenue - Euston Bus Station,Streatham Hill - Brixton - Kennington - Waterloo - Holborn - Euston,3
+866y0554022,MN,66,Romford Station - Leytonstone Station,Romford Station - Eastern Avenue - Newbury Park - Gants Hill - Redbridge - Wanstead - Leytonstone,3
+5452y0553240,ML,52,Victoria Bus Station - Pound Lane (NW10),Victoria - Notting Hill Gate - Ladbroke Grove - Kensal Rise - Willesden,3
+64339y0552793,TN,339,Leytonstone Station / Grove Green Road - Shadwell DLR,Leytonstone - Stratford - Shadwell,3
+45P5y0551540,LC,P5,E & C / Newington Causeway - Patmore Estate / Drury House,Elephant & Castle - Camberwell - Loughborough Junction - Brixton - Clapham North - Stockwell - Patmore Estate,3
+4887y0548941,LG,87,Wandsworth Plain - Aldwych / Drury Lane,Wandsworth - Vauxhall - Aldwych,3
+4888Yy0552724,LG,88,Parliament Hill Fields - Omnibus Clapham,Parliament Hill Fields - Camden Town - Oxford Circus - Westminster - Vauxhall - Clapham Common,3
+48214y0545428,LG,214,Highgate School / Hampstead Lane - Finsbury Square,Highgate - Camden Town - Moorgate,3
+16EL3y0550148,BE,EL3,Chadwell Heath Lane /Barley Ln - Northgate Road,Little Heath - Barking - Barking Riverside,3
+45486y0549330,LC,486,North Greenwich Station - Friswell Place,North Greenwich - Welling - Bexleyheath,3
+16104y0551538,BE,104,Stratford Bus Station - Manor Park / Gladding Road,Stratford - Plashet - Upton Park - Lonsdale Avenue - East Ham - Manor Park,3
+21130y0551871,CX,130,Vulcan Way - Parchmore Road,New Addington - Addington - Shirley - Thornton Heath,3
+8137y0544649,SL,137,Telford Avenue - Marble Arch,Streatham Hill - Clapham - Hyde Park Corner,3
+21201y0553640,CX,201,Morden - Dulwich Road,Morden - Streatham Hill - Herne Hill,3
+4985y0552819,LU,85,Putney Bridge - Kingston Hall Road,Putney Bridge - Roehampton - Kingston,3
+8175y0551643,MN,175,Hillrise Estate - Ballards Road /Princess Parade,Hillrise Estate - Collier Row - Romford - Becontree Heath - Heathway - Dagenham  New Road,3
+48432y0552225,LG,432,Brixton Rd /Brixton Police Stn - Jasmine Grove,Brixton - Tulse Hill - Crystal Palace - Anerley Station,3
+5432y0554180,ML,32,Edgware - Kilburn Park Station,Edgware - Colindale - West Hendon - Cricklewood - Kilburn Park,3
+21490y0553612,TE,490,Pools on the Park - Heathrow Terminal 5,Richmond  Pools on the Park - Twickenham - Hanworth - Feltham - Hatton Cross - Heathrow Terminal 5,3
+8264y0550235,SL,264,West Croydon Bus Station - St George's Hospital,West Croydon - Mitcham - Tooting  St  George's Hospital,3
+59380y0552251,SK,380,Belmarsh Prison - Molesworth Street,Belmarsh - Woolwich - Lewisham,3
+54274y0553302,ML,274,Angel Islington - Lancaster Gate Station,Islington  Angel - Caledonian Park - Camden Town - London Zoo - Baker Street - Marble Arch - Lancaster Gate,3
+16EL2y0552334,BE,EL2,Becontree Heath Leisure Centre - Dagenham Dock Terminus,Becontree Heath - Barking - Dagenham Dock,3
+54237y0547251,ML,237,Frampton Road - White City Bus Station,Hounslow Heath - Hounslow - Isleworth - Brentford - Chiswick - Stamford Brook - White City,3
+49148Yy0553521,LU,148,Denmark Hill /Camberwell Green - White City Bus Station,Camberwell Green - Elephant & Castle - Westminster - Victoria - Marble Arch - Notting Hill Gate - White City,3
+51353y0550535,ME,353,Ramsden Estate / Rye Crescent - Markfield,Ramsden Estate - Orpington - Locksbottom - Hayes - Addington Village - Forestdale,3
+8103y0554021,MN,103,Chase Cross - Rainham Station,Chase Cross - Romford Station - Rush Green - Dagenham East - South Hornchurch - Rainham Interchange,3
+8412y0554138,SL,412,Purley / Downlands Precinct - Taberner House,Purley - Riddlesdown - Sanderstead - Selsdon - South Croydon - Croydon Town Centre,3
+60365y0553827,IF,365,South Street - Havering Park,Orchard Village - Elm Park - Romford - Havering Park,3
+64W14y0542379,TN,W14,Cross Road (IG8) - Leyton Mills,Woodford Bridge - South Woodford - Leyton  Superstores,3
+4814Ey0552928,LG,14,Putney Heath / Green Man - Russell Square,Putney Heath - Putney Bridge - Fulham Broadway - South Kensington - Piccadilly Circus - Russell Square,3
+48322y0552221,LG,322,Crystal Palace Bus Station - The Pavement,Crystal Palace - Tulse Hill - Brixton - Clapham Common,3
+60287y0553816,IF,287,Barking Station - Abbey Wood Lane,Barking - Ripple Road - Rainham  Abbey Wood Lane,3
+45363y0551549,LC,363,Crystal Palace Parade - Lambeth Road,Crystal Palace - Honor Oak - Peckham - Old Kent Road - Elephant & Castle,3
+878y0554065,MN,78,Shoreditch High Street Station - St Mary's Road,Shoreditch - Liverpool Street - Tower Bridge - Bermondsey - Peckham - Peckham Rye - Nunhead,3
+45B16y0551183,LC,B16,Bexleyheath Bus Garage - Moorhead Way / Weigall Road,Kidbrooke - Eltham - Bexleyheath,3
+45453Ey0551519,LC,453,Deptford Bridge - Great Central Street,Deptford Bridge - New Cross - Bricklayers Arms - Elephant & Castle - Westminster - Oxford Circus - Marylebone,3
+45172y0553126,LC,172,Brockley Rise / Chandos - Aldwych / Drury Lane,Brockley Rise - Elephant & Castle - Aldwych,3
+8329y0551148,MN,329,Little Park Gardens - Turnpike Lane,Enfield - Winchmore Hill - Turnpike Lane,3
+8259Hy0550378,MN,259,Monmouth Road - King's Cross Rd/Pentonville Rd,Edmonton Green - Tottenham - Seven Sisters - Manor House - Finsbury Park - Holloway - King's Cross,3
+8259Hy0550376,MN,259,Monmouth Road - King's Cross Rd/Pentonville Rd,Edmonton Green - Tottenham - Seven Sisters - Manor House - Finsbury Park - Holloway - King's Cross,3
+8349y0553908,MN,349,Glyn Road (EN3) - Rookwood Road,Ponders End  Enfield Garage - Edmonton Green - Upper Edmonton - Tottenham - Stamford Hill,3
+2124Yy0553820,CX,24,Grosvenor Road - Royal Free Hospital,Pimlico - Camden Town - Hampstead Heath,3
+64308y0552156,TN,308,Woodbine Place - Lea Bridge Roundabout,Wanstead - Wanstead Park - Forest Gate - Stratford - Homerton - Clapton Pond,3
+41N26y0553731,HY,N26,Trafalgar Square/Charing Cross - Chingford Station,Trafalgar Square - Liverpool Street - Bethnal Green - Hackney Wick - Leyton - Walthamstow - Chingford Mount - Chingford Station,3
+16101y0552331,BE,101,Woodbine Place - Gallions Reach Shopping Park,Wanstead - East Ham - Gallions Reach,3
+841y0551671,MN,41,Archway Station - Tottenham Hale Bus Station,Archway - Crouch End - Turnpike Lane - Tottenham Hale,3
+8341Ty0549376,MN,341,Glover Drive / Ikea - Waterloo Station / Waterloo Rd,Northumberland Park - Tottenham - Newington Green - Islington - Aldwych - Waterloo,3
+8341Ty0549375,MN,341,Glover Drive / Ikea - Waterloo Station / Waterloo Rd,Northumberland Park - Tottenham - Newington Green - Islington - Aldwych - Waterloo,3
+61H9y0550820,SV,H9,St Mark's Hospital - St Mark's Hospital,Northwick Park Hospital - Kenton - Wealdstone - North Harrow - Rayners Lane - South Harrow - Harrow - Northwick Park Hospital,3
+54307y0553858,ML,307,Brimsdown Station - Barnet Hospital,Brimsdown - Southbury - Enfield Town - Oakwood - East Barnet - New Barnet - High Barnet - Barnet Church - Barnet Hospital,3
+5491y0553071,ML,91,Tottenham Lane YMCA - Whitehall / Trafalgar Square,Crouch End - King's Cross - Trafalgar Square,3
+54143y0552658,ML,143,Brent Cross Shopping Centre - Archway Station,Brent Cross - Hendon Central - Finchley Central - East Finchley - Highgate - Archway,3
+1HAMy05146201,LUL,,Ealing Broadway - Upminster Station,Hammersmith - King's Cross St. Pancras - Barking,1
+54189y0552078,ML,189,Brent Cross Shopping Centre - Marble Arch,Brent Cross - Kilburn - Marble Arch,3
+8259Jy0551899,MN,259,Edmonton Green Bus Station - King's Cross Rd/Pentonville Rd,Edmonton Green - Tottenham - Seven Sisters - Manor House - Finsbury Park - Holloway - King's Cross,3
+8259Jy0551901,MN,259,Edmonton Green Bus Station - King's Cross Rd/Pentonville Rd,Edmonton Green - Tottenham - Seven Sisters - Manor House - Finsbury Park - Holloway - King's Cross,3
+49110y0543439,LU,110,School Road (TW3) - West Middlesex Hospital,Hounslow - Twickenham - West Middlesex Hospital,3
+4814Ey0552929,LG,14,Putney Heath / Green Man - Russell Square,Putney Heath - Putney Bridge - Fulham Broadway - South Kensington - Piccadilly Circus - Russell Square,3
+4814Ey0552927,LG,14,Putney Heath / Green Man - Russell Square,Putney Heath - Putney Bridge - Fulham Broadway - South Kensington - Piccadilly Circus - Russell Square,3
+45244y0549479,LC,244,Queen Elizabeth Hospital / West Entrance - Abbey Wood Road,Queen Elizabeth Hospital - Woolwich - Abbey Wood,3
+21484y0552341,CX,484,Lewisham Station - Denmark Hill /Camberwell Green,Single Decker Low Floor+Wheelchair,3
+45N89y0552305,LC,N89,Trafalgar Square/Charing Cross - Erith Town Centre / Riverside,Trafalgar Square - Lewisham - Erith,3
+41W16y0553850,HY,W16,Chingford Mount - Leytonstone Station / Grove Green Road,Chingford Mount - Highams Park - Wood Street - Bakers Arms - Leyton - Leytonstone,3
+48163y0551174,LG,163,London Road / Morden Station - Francis Grove,Morden - Raynes Park - Wimbledon,3
+8325y0550566,MN,325,East Beckton Sainsbury's - Prince Regent Bus Station,East Beckton - East Ham - Prince Regent,3
+49440y0553980,LU,440,Turnham Green Church - First Way,Turnham Green - Chiswick  Business Park - South Acton - Acton - Horn Lane - Park Royal - Stonebridge Park - Wembley  First Way,3
+21207Ny0553451,TE,N207,Uxbridge Station - Bloomsbury Square,Uxbridge - Hayes - Ealing - Shepherds Bush - Holborn,3
+16EL1y0552400,BE,EL1,Ilford Hill - Northgate Road,Ilford - Barking - Barking Riverside,3
+41388y0551661,HY,388,Stratford City Bus Station - London Bridge Bus Station,Stratford City - Hackney Wick - Victoria Park - Cambridge Heath - Bethnal Green - Liverpool Street - London Bridge,3
+51352y0549864,ME,352,Bromley North Station - Bell Green / Sainsbury's,Bromley North - Beckenham - Lower Sydenham,3
+60496y0553833,IF,496,Harold Wood - Queens Hospital,Harold Wood Station - Harold Hill - Gidea Park - Romford Station - Romford  Queens Hospital,3
+48164y0551909,LG,164,Sutton Station / The Quadrant - Francis Grove,Sutton - Morden - Wimbledon,3
+544y0549123,ML,4,Archway Station - Blackfriars,Archway - Dartmouth Park Hill - Tufnell Park - Nags Head - Finsbury Park - Highbury - Islington - Barbican - Mansion House - Blackfriars,3
+51R11y0551184,ME,R11,Sidcup / Queen Mary's Hospital - High Street / Worlds End Lane,Queen Mary's Hospital - Sidcup - Foots Cray - St Mary Cray - Orpington - Green Street Green,3
+59284y0552451,SK,284,Lewisham Station - Grove Park Cemetery,Lewisham - Catford - Grove Park,3
+4811Yy0553784,LG,11,Fulham Town Hall - Appold Street,Fulham Broadway - Chelsea - Victoria - Westminster - Aldwych - St Paul's Cathedral - Liverpool Street,3
+54240y0553255,ML,240,Golders Green - Edgware,Golders Green - Mill Hill - Edgware,3
+8W4y0550275,MN,W4,Ulster Gardens - Ferry Lane Primary School,Oakthorpe Park - Wood Green - Turnpike Lane - Broadwater Farm - Bruce Grove - Tottenham Hale  Ferry Lane,3
+4839y0553199,LG,39,Putney Bridge - Clapham Junction Station / The Falcon,Putney Bridge - Putney Heath - Southfields - Wandsworth - Clapham Junction,3
+60296y0551511,IF,296,Romford Station - Roden Street,Romford - Marks Gate - Little Heath - Newbury Park - Gants Hill - Ilford,3
+1HAMy059185819,LUL,,Ealing Broadway - Upminster Station,Hammersmith - King's Cross St. Pancras - Barking,1
+1HAMy05350166,LUL,,Ealing Broadway - Upminster Station,Hammersmith - King's Cross St. Pancras - Barking,1
+61H10y0550821,SV,H10,St Mark's Hospital - St Mark's Hospital,Northwick Park Hospital - Harrow - South Harrow - Rayners Lane - North Harrow - Wealdstone - Kenton - Northwick Park Hospital,3
+48N11y0553795,LG,N11,Ealing Broadway - Appold Street,Ealing Broadway - Acton Town - Chiswick - Hammersmith - Fulham - Victoria - Liverpool Street,3
+8417y0540244,SL,417,Crystal Palace Bus Station - Omnibus Clapham,Crystal Palace - Streatham - Clapham Common,3
+59B14y0551833,SK,B14,Bexleyheath Clocktower - Orpington,Bexleyheath - Sidcup - Orpington,3
+54332y0554185,ML,332,Brent Park Tesco - Bishops Bridge,Brent Park Tesco - Cricklewood - Paddington,3
+51R3y0550209,ME,R3,Princess Royal University Hosp - Orpington,Locksbottom - Petts Wood - Orpington,3
+8141Cy0545657,MN,141,Tottenhall Rd/ Nth Circular Rd - London Bridge Bus Station,Palmers Green - Wood Green - Harringay - Manor House - Newington Green - Hoxton - Moorgate - London Bridge,3
+25DLRy055,DLR,DLR,Bank - Lewisham Station,Bank/Tower Gateway/Stratford/Stratford International - Beckton/Lewisham/Woolwich Arsenal,2
+49419y0553607,LU,419,George Street (TW9) - Norley Vale,Richmond - Mortlake - Barnes - Roehampton,3
+59199Ny0552077,SK,N199,Trafalgar Square/Charing Cross - St Mary Cray,Trafalgar Square - London Bridge - Greenwich - Lewisham - Bromley - Orpington - St Mary Cray,3
+64262y0549103,TN,262,East Beckton Sainsbury's - Stratford Bus Station,East Beckton  Sainsbury's - Beckton - Plaistow - Stratford,3
+60D3y0554077,IF,D3,Bonner Road - Leamouth / Orchard Place,Bethnal Green - Canary Wharf - Leamouth,3
+5417y0553696,ML,17,Archway Station / Holloway Road - London Bridge Bus Station,Archway - King's Cross - London Bridge,3
+51227y0549749,ME,227,Bromley North Station - Crystal Palace Parade,Bromley North - Beckenham - Penge - Crystal Palace,3
+4972y0551805,LU,72,Brunel Road - Hammersmith Bridge Road,East Acton - Shepherd's Bush - Hammersmith Bridge  North Side,3
+54206y0548956,MT,206,The Paddocks - Kilburn Park Station,Wembley Park - Harlesden - Kilburn Park,3
+6097Sy054,IF,97,Chingford Station - Stratford City Bus Station,Chingford - Walthamstow - Leyton - Stratford,3
+8341Cy0553124,MN,341,Glover Drive / Ikea - Waterloo Station / Waterloo Rd,Northumberland Park  Angel Road Superstores - Tottenham - Newington Green - Islington - Aldwych - Waterloo,3
+60238y0549386,IF,238,Stratford Bus Station - Barking Station,Stratford - Plashet - Upton Park - East Ham - Barking,3
+49283y0548654,LU,283,Brunel Road - Hammersmith Bus Station,East Acton - Hammersmith Hospital - White City Estate - Shepherd's Bush - Hammersmith,3
+54324y0552908,ML,324,Stanmore Station - Tesco Brent Cross,Stanmore - Kingsbury - Brent Cross,3
+76376y0550917,DC,376,Beckton Bus Station - Newham Town Hall,Beckton - Cyprus - Beckton Park - Newham University Hospital - Upton Park - East Ham  Newham Town Hall,3
+41394y0552807,HY,394,Homerton Hospital / Wardle St - Tolpuddle St / Islington Police Stn,Homerton Hospital - Hackney - Trelawney Estate - Broadway Market - Hoxton - Islington  Angel,3
+54168y0551241,ML,168,Royal Free Hospital - Dunton Road,Hampstead Heath - Chalk Farm - Camden Town - Euston - Holborn - Waterloo - Elephant & Castle - Old Kent Road  Tesco,3
+51R1y0551183,ME,R1,Grovelands Road - High Street / Worlds End Lane,St Paul's Cray - St Mary Cray - Orpington - Chelsfield - Green Street Green,3
+51126y0550198,ME,126,Ringers Road - Eltham High Street / Foots Cray Road,Bromley - Grove Park - Eltham,3
+76D7y0553499,DC,D7,Poplar / All Saints Church - Mile End,Poplar - Canary Wharf - Mile End,3
+1DISy05186255,LUL,,Ealing Broadway - Upminster Station,Ealing Broadway/Richmond/Wimbledon - Earl's Court // East Ham - Upminster,1
+64444y0542188,TN,444,Turnpike Lane Bus Station - Chingford Station,Turnpike Lane Station - Angel Corner - Chingford Station,3
+5416y0553236,ML,16,Mora Road - Victoria Bus Station,Cricklewood - Kilburn - Edgware Road - Marble Arch - Victoria,3
+49391y0553211,LU,391,George Street (TW9) - Hammersmith Bus Station,Richmond - Kew Gardens Station - Kew Bridge - Chiswick - Stamford Brook - Ravenscourt Park - Hammersmith,3
+41D6y0553498,HY,D6,King Edward's Road - Isle of Dogs Asda,Ash Grove - Bethnal Green - Mile End - Poplar - Crossharbour,3
+45360y0548997,LC,360,E & C / Newington Causeway - Prince Consort Road / Imperial College,Elephant & Castle - Vauxhall - Royal Albert Hall,3
+2145y0552904,CX,45,E & C / Newington Causeway - Atkins Road / New Park Road,Elephant & Castle - Camberwell - Loughborough Junction - Brixton - Clapham Park,3
+60256y0553815,IF,256,Miramar Way - Wincanton Road_ Noak Hill,Hornchurch  Miramar Way - Hornchurch - Harold Wood - Harold Hill - Noak Hill,3
+48357y0552027,LG,357,Chingdale Road - Whipps Cross Hospital / A & E,Chingford Hatch - Chingford Mount - Crooked Billet - Walthamstow - Bakers Arms - Whipps Cross,3
+21H25y0553645,TE,H25,Churchfields Avenue - Hatton Cross,Butts Farm - Hanworth - Feltham - Bedfont Green - Hatton Cross,3
+5443Cy0548347,ML,43,Halliwick Park - London Bridge Bus Station,Friern Barnet - Muswell Hill - Highgate - Archway - Holloway Road - Islington - Moorgate - London Bridge,3
+8469y0552502,MN,469,Queen Elizabeth Hospital / West Entrance - Erith Town Centre / Riverside,Queen Elizabeth Hospital - Woolwich - Erith,3
+54382y0548909,ML,382,Southgate - Millbrook Park,Southgate - Friern Barnet - Finchley Central - Mill Hill,3
+48357y0553444,LG,357,Chingdale Road - Whipps Cross Hospital / A & E,Chingford Hatch - Chingford Mount - Crooked Billet - Walthamstow - Bakers Arms - Whipps Cross,3
+547y0553891,ML,7,Brunel Road - Oxford Circus Station / John Lewis,East Acton - Paddington - Oxford Circus,3
+21E7y0552472,TE,E7,Ruislip - Ealing Broadway Station / Haven Green,Ruislip - Greenford - Ealing Broadway,3
+54316y0554184,ML,316,Mora Road - White City Bus Station,Cricklewood  Bus Garage - Kilburn - Kilburn Park - Queen's Park - Ladbroke Grove - Latimer Road Station - White City,3
+45225y0551520,LC,225,Springbank Road / Hither Green - Canada Water Bus Station,Hither Green - Lewisham - New Cross - Surrey Quays - Canada Water,3
+1DISy05386212,LUL,,Ealing Broadway - Upminster Station,Ealing Broadway/Richmond/Wimbledon - Earl's Court - Upminster/Edgware Road,1
+64488y0552196,TN,488,Hancock Road - Forest Road / Kingsland Road,Bromley-by-Bow - Hackney Wick - Homerton - Clapton - Dalston Junction,3
+21414Gy0547084,CX,414,Putney Bridge - Chippenham Road,Putney Bridge - Hyde Park Corner - Maida Hill,3
+54187y0549795,MT,187,Central Middlesex Hospital - 02 Centre / Sainsbury's,Central Middlesex Hospital - Harlesden - Kensal Rise - Swiss Cottage - Finchley Road  02 Centre,3
+8N38y0551697,MN,N38,Walthamstow Bus Station - Victoria Bus Station,Walthamstow Central - Bakers Arms - Hackney - Essex Road - Islington - Holborn - Piccadilly Circus - Victoria,3
+49272y0553204,LU,272,Cavendish Road (W4) - Shepherd's Bush (Central Line),Chiswick  Grove park - East Acton - Shepherd's Bush,3
+21E5y0552951,TE,E5,Toplocks Estate / Glade Lane - Perivale Tesco,Toplocks Estate - Southall - Perivale,3
+54271y0550918,ML,271,South Grove (N6) - Finsbury Square,Highgate Village - Archway - Holloway - Canonbury - Old Street - Moorgate  Finsbury Square,3
+54607y0550613,MT,607,Uxbridge Station - White City Bus Station,Uxbridge - Hayes End - Southall - Ealing Broadway - Acton - White City  Limited Stop,3
+45188Cy0549506,LC,188,North Greenwich Station - Waterloo Station / Tenison Way,North Greenwich - Waterloo,3
+867y0549921,MN,67,Lordship Lane - Forest Road / Kingsland Road,Wood Green - Stamford Hill - Dalston Junction,3
+21278y0546528,TE,278,Heathrow Central Bus Station - Brickwall Lane,Heathrow Central - Harlington - Hayes - Church Road - Hayes End - Long Lane - Hillingdon Station - Ickenham - West Ruislip - Ruislip,3
+49224y0548177,LU,224,Alperton Sainsbury's - Mitchell Way,Alperton  Sainsbury's - Beresford Avenue - Park Royal - Central Middlesex Hospital - Harlesden Station - St Raphael's,3
+6056Ay0548650,IF,56,Whipps Cross Roundabout - Museum Of London,Whipps Cross - Hackney - Barbican,3
+54482y0552201,MT,482,Southall Broadway - Heathrow Terminal 5,Southall  Town Hall - Convent Way Estate - Heston - Hounslow West - Hatton Cross - Heathrow Terminal 4 - Heathrow Terminal 5,3
+49223y0548174,LU,223,Harrow Bus Station - Wembley Central Station,Harrow - Kenton - Wembley Central,3
+8243Ay0535508,MN,243,Redvers Road - Red Lion Square,Wood Green - Tottenham - Shoreditch - Holborn,3
+8340y0549834,MN,340,Edgware - Harrow Bus Station,Edgware - Canons Park - Marsh Lane - Stanmore - Harrow Weald - Wealdstone - Harrow,3
+51R4y0550211,ME,R4,Augustine Road - Princess Royal University Hosp,St Paul's Cray - Orpington - Princess Royal Hospital,3
+6425Hy0550088,TN,25,Aldgate - Hainault Street,Aldgate - Whitechapel - Mile End - Bow - Stratford - Forest Gate - Manor Park - Ilford,3
+49N18y0553681,LU,N18,Harrow Weald Bus Garage - Whitehall / Trafalgar Square,Harrow Weald  Bus Garage - Harrow - Sudbury - Wembley - Harlesden - Harrow Road - Baker Street - Trafalgar Square,3
+54302y0553502,ML,302,Mill Hill Broadway - Kensal Rise Station,Mill Hill Broadway - Burnt Oak - Kingsbury Green - Neasden - Dudden Hill Lane - Willesden - Kensal Rise,3
+54487y0551976,MT,487,South Harrow Bus Station - Willesden Junction Station,South Harrow - Park Royal - Willesden Junction,3
+60193y0548066,IF,193,Queens Hospital - Essex Gardens,Romford  Queen's Hospital - Hornchurch - County Park Estate,3
+21414Gy0547083,CX,414,Putney Bridge - Chippenham Road,Putney Bridge - Hyde Park Corner - Maida Hill,3
+21414Gy0547085,CX,414,Putney Bridge - Chippenham Road,Putney Bridge - Hyde Park Corner - Maida Hill,3
+74S3y0551938,EB,S3,Belmont - Malden Manor,Sutton Hospital - Belmont - Carshalton - Sutton - Cheam - North Cheam - Worcester Park - Malden Manor,3
+48N11y0544163,LG,N11,Ealing Broadway - Appold Street,Ealing Broadway - Acton Town - Chiswick - Hammersmith - Fulham - Victoria - Liverpool Street,3
+54E6y0551916,MT,E6,Rockware Avenue /Greenford Stn - Bulls Bridge Tesco,Greenford Station - Greenford Broadway - Yeading - Hayes - Bulls Bridge,3
+59161y0550838,SK,161,Chislehurst War Memorial - North Greenwich Station,Chislehurst - Woolwich - North Greenwich,3
+45B11y0550864,LC,B11,Bexleyheath Bus Garage - Thamesmead Town Centre / Central Way,Bexleyheath - Abbey Wood - Thamesmead,3
+8B15y0552506,MN,B15,Bexleyheath Clocktower - Horncastle Road /Alnwick Rd,Bexleyheath - Eltham - Horn Park,3
+60499y0553834,IF,499,Gallows Corner / Tesco - Stansgate Road Shops,Gallows Corner  Tesco - Harold Hill - Romford - Heath Park Estate,3
+54226y0553073,MT,226,Haven Green / Ealing Broadway - Golders Green,Ealing Broadway - Harlesden - Golders Green,3
+48153y0545425,LG,153,Finsbury Park Interchange - Finsbury Square / Moorgate,Finsbury Park - Holloway - Barnsbury - St Lukes - Barbican - Moorgate  Finsbury Square,3
+4521Cy0547266,LC,21,Lewisham Centre - Newington Green,Lewisham - New Cross - Old Kent Road - Borough - London Bridge - Moorgate - Hoxton - Newington Green,3
+1METy05146202,LUL,,Amersham - Aldgate,Amersham/Chesham/Uxbridge/Watford - Baker Street - Aldgate,1
+61H18y0547709,SV,H18,Harrow Bus Station - Harrow Bus Station,Harrow - Headstone Lane - Belmont - Kenton - Harrow,3
+64218y0543807,TN,218,Hammersmith Bus Station - Chase Road_ North Acton,Hammersmith - Askew Road - Acton Vale - Acton - Twyford Avenue - West Acton - North Acton,3
+54190y0554169,ML,190,George Street (TW9) - Empress State Bldg/ W Brompton,Richmond - Hammersmith - West Brompton,3
+60N8y0554125,IF,N8,The Lowe - Great Titchfield Street / Oxford Circus Station,Hainault  The Lowe - Barkingside - Gants Hill - Wanstead - Leytonstone - Stratford - Old Ford - Bethnal Green - Liverpool Street - Oxford Circus,3
+1METy05156277,LUL,,Amersham - Aldgate,Amersham/Chesham/Uxbridge/Watford - Baker Street - Aldgate,1
+49211Yy0553529,LU,211,Hammersmith Bus Station - Waterloo Station/Upper Taxi Rd,Hammersmith - Fulham Broadway - Victoria - Waterloo,3
+64212y0551478,TN,212,Chingford Station - St James Street Station,Chingford - Highams Park - Walthamstow,3
+54260y0552430,ML,260,White City Bus Station - Golders Green,White City - North Acton - Central Middlesex Hospital - Harlesden - Willesden - Cricklewood - Golders Green,3
+54245y0547173,ML,245,Alperton Sainsbury's - Golders Green,Alperton  Sainsbury's - Sudbury - North Wembley - Neasden - Cricklewood - Childs Hill - Golders Green,3
+60247y0545645,IF,247,Barkingside - Romford Station,Barkingside - Hainault - Romford,3
+54E2y0552161,ML,E2,Commerce Road / Brentford Lock - Clifton Road (UB6),Brentford - Ealing Broadway - Greenford,3
+8318y0551681,MN,318,North Middlesex Hospital - Rookwood Road,North Middlesex Hospital - Tottenham - Stamford Hill,3
+61303y0551844,SV,303,Edgware - Kingsbury Circle,Edgware - Deans Lane - Hale Lane - Mill Hill Broadway - Grahame Park - Colindale - Princes Avenue - Kingsbury Circle,3
+54H13y0550602,MT,H13,St Vincent's Nursing Home - Ruislip Lido,Northwood Hills  St Vincent's - Pinner Green - Pinner - Eastcote - Ruislip - Ruislip Lido,3
+8368y0548236,MN,368,Wangey Road - Harts Lane Estate,Chadwell Heath - Mayesbrook Park - Barking,3
+49N9y0549813,LU,N9,Aldwych / Somerset House - Heathrow Terminal 5,Aldwych - Hammersmith -  Hounslow - Heathrow Airport,3
+4811Ly0544168,LG,11,Hobury Street / Worlds End - Appold Street,Chelsea - Victoria - Westminster - Aldwych - St Paul's Cathedral - Liverpool Street,3
+4811Ly0544166,LG,11,Hobury Street / Worlds End - Appold Street,Chelsea - Victoria - Westminster - Aldwych - St Paul's Cathedral - Liverpool Street,3
+45136Ny0553802,LC,N136,Oxford Circus Stn /Margaret St - Chislehurst War Memorial,Oxford Circus - New Cross - Chislehurst,3
+1BAKy05450212,LUL,,Elephant & Castle Station - Harrow & Wealdstone Station,Elephant & Castle - Waterloo - Harrrow & Wealdstone,1
+45178y0552039,LC,178,Calderwood Street - Lewisham Station,Woolwich - Queen Elizabeth Hospital - Lewisham,3
+64N25y0554005,TN,N25,Holles Street - Hainault Street,Oxford Circus - Holborn - Bank - Aldgate - Whitechapel - Bow - Stratford - Forest Gate - Manor Park - Ilford,3
+60241y0549386,IF,241,Stratford City Bus Station - Hermit Road,Stratford City - Plaistow - Custom House - Keir Hardie Estate - Canning Town  Barking Road,3
+54E8y0550933,ML,E8,The Bell - Ealing Broadway Station / Haven Green,Hounslow - Boston Manor - Ealing Broadway,3
+4512Fy0539438,LC,12,Westminster Station / Parliament Square - Dulwich Library,Westminster - Elephant & Castle - Peckham - Dulwich,3
+45176By0549603,LC,176,Penge / Pawleyne Arms - Waterloo Station / Tenison Way,Penge - Forest Hill - Dulwich - Camberwell - Waterloo,3
+8312y0553689,SL,312,South Croydon Bus Garage - Norwood Junction Station,South Croydon  Bus Garage - Croydon - Addiscombe - Woodside - Norwood Junction,3
+61H19y0547710,SV,H19,Harrow Bus Station - Harrow Bus Station,Harrow - Belmont - Headstone Lane - Harrow,3
+59354y0551797,SK,354,High Street / Maple Road - Bromley North Station,Penge - Beckenham - Bromley North,3
+59R7y0552904,SK,R7,Chelsfield Village / Five Bells - Chislehurst Sainsbury's,Chelsfield - Orpington - Petts Wood - Bickley - Chislehurst,3
+60N55y0553597,IF,N55,St Thomas of Canterbury Church - Great Titchfield Street / Oxford Circus Station,Woodford Wells - Hackney - Shoreditch - Oxford Circus,3
+54460y0554186,ML,460,Pound Lane / Willesden Bus Garage - North Finchley Bus Station,Willesden  Bus Garage - Cricklewood - Golders Green - Temple Fortune - North Finchley,3
+8401y0552499,MN,401,Thamesmead Town Centre - Bexleyheath Clocktower,Thamesmead - Belvedere - Bexleyheath,3
+86299y0552977,SN,299,Queens Avenue (N10) - Cockfosters,Muswell Hill - Southgate - Cockfosters,3
+41309y0542201,HY,309,Canning Town - Bonner Road,Canning Town - Aberfeldy Estate - Stepney Green - Bethnal Green  Bonner Road,3
+45N1y0551788,LC,N1,New Oxford Street - Titmuss Avenue,Tottenham Court Road - Waterloo - Thamesmead,3
+41W5y0549601,HY,W5,Archway Station - Harringay Sainsbury's,Archway - Hornsey Lane - Crouch End - Harringay Station - Harringay  Superstores,3
+8133Cy0546854,SL,133,Streatham Station - Liverpool Street Station,Streatham Station - Kennington Station - Liverpool Street,3
+21267y0550874,TE,267,Hammersmith Bus Station - South Road / Fulwell,Hammersmith - Brentford - Fulwell,3
+2127y0550782,CX,27,Hammersmith (Ham & City Line) - Chalk Farm Morrisons,Hammersmith - Kensington - Notting Hill Gate - Edgware Road - Camden - Chalk Farm,3
+49H17y0547630,LU,H17,Harrow Bus Station - Wembley Central Station,Harrow Bus Station - Sudbury - Wembley Central,3
+49423y0545089,LU,423,School Road (TW3) - Heathrow Terminal 5,Hounslow - Hatton Cross - Heathrow,3
+8255y0544634,SL,255,South Lodge Avenue / Yorkshire Road - Balham,Pollards Hill - Norbury - Streatham Common - Balham,3
+25DLRy052,DLR,DLR,Bank - Lewisham Station,Tower Gateway/Stratford/Stratford International - Beckton/Lewisham/Woolwich Arsenal,2
+25DLRy054,DLR,DLR,Bank - Lewisham Station,Tower Gateway/Stratford/Stratford International - Beckton/Lewisham/Woolwich Arsenal,2
+21E10y0552475,TE,E10,Islip Manor Road - Ealing Broadway Station / Haven Green,Northolt - Greenford - Ealing Broadway,3
+16N15y0552071,BE,N15,Romford Market - Margaret Street /Oxford Circus,Romford Market - Becontree Heath - Barking - East Ham - Canning Town - Aldgate - Oxford Circus,3
+45136Ny0553276,LC,N136,Oxford Circus Stn /Margaret St - Chislehurst War Memorial,Oxford Circus - New Cross - Chislehurst,3
+41W11y0542983,HY,W11,Chingford Hall Estate - Walthamstow Bus Station,Chingford Hall Estate - Blackhorse Road - Walthamstow,3
+61H11y0551578,SV,H11,Harrow Bus Station - Mount Vernon Hospital,Harrow - Pinner - Northwood - Mount Vernon Hospital,3
+48N87y0552829,LG,N87,Fairfield Bus Station - Aldwych / Drury Lane,Kingston - Wimbledon - Aldwych,3
+48155Ny0553035,LG,N155,Morden - Aldwych / Drury Lane,Morden - Tooting Broadway - Balham - Clapham - Stockwell - Kennington - Elephant & Castle - Westminster - Aldwych,3
+21U5y0552477,TE,U5,York Road (UB8) - Blyth Road_ Hayes,Uxbridge - Cowley - Hillingdon Hospital - West Drayton - Stockley Park - Hayes & Harlington Station,3
+74413y0551935,EB,413,Sutton Bus Garage - Morden,Sutton - Morden,3
+61H14y0547629,SV,H14,St Thomas' Drive - Northwick Park Hospital,Hatch End - Harrow View - Harrow - Northwick Park Hospital,3
+49398y0550597,LU,398,Ruislip - Hemery Road,Ruislip - Rayners Lane - Wood End,3
+8412y0553780,SL,412,Purley / Downlands Precinct - Taberner House,Purley - Riddlesdown - Sanderstead - Selsdon - South Croydon - Croydon Town Centre,3
+54U1y0551173,MT,U1,Ruislip - West Drayton Station,Ruislip - Uxbridge - West Drayton,3
+48N44y0553540,LG,N44,Aldwych / Somerset House - Sutton Station / The Quadrant,Aldwych - Battersea Park - Tooting - Sutton,3
+54U3y0551349,MT,U3,Uxbridge Station - Heathrow Central Bus Station,Uxbridge - West Drayton - Heathrow Airport,3
+63TRy0514,TCL,Tram,Beckenham Junction Tram Stop - Wimbledon,New Addington / Elmers End / Beckenham Junction - Croydon - Wimbledon,0
+64473y0549106,TN,473,North Woolwich Free Ferry - Stratford Bus Station,North Woolwich - London City Airport - Custom House - Plaistow - Stratford,3
+54U4y0548641,MT,U4,Prologis Park - Belmont Road,Hayes  Prologis Park - Hayes - Barra Hall Circus - Hillingdon Hospital - Kingston Lane - Uxbridge,3
+51X26y0552005,ME,X26,West Croydon Bus Station - Heathrow Central Bus Station,West Croydon - Sutton - Heathrow Airport,3
+8301y0549766,MN,301,Bexleyheath Clocktower - Beresford Sq /Woolwich Arsenal,Market Place  Bexleyheath  - Woodland Way  Thamesmead - Abbey Wood Station -  Hawksmoor School - Woolwich Market,3
+64D8y0550887,TN,D8,Stratford Bus Station - Isle of Dogs Asda,Stratford - Bromley-By-Bow - Poplar - Canary Wharf - Marsh Wall - Crossharbour,3
+41W12y0553445,HY,W12,Rensburg Road - Woodbine Place,Walthamstow  Coppermill Lane - Walthamstow Central - Whipps Cross - South Woodford - Wanstead,3
+1METy059225817,LUL,,Amersham - Aldgate,Amersham/Chesham/Uxbridge/Watford - Baker Street - Aldgate,1
+41W13y0542378,HY,W13,Leytonstone Station - St Thomas of Canterbury Church,Woodford Wells - South Woodford - Leytonstone,3
+829Ay0543186,MN,29,Lordship Lane - Stephen Street,Wood Green - Finsbury Park - Camden Town - Tottenham Court Road,3
+5446By0550673,ML,46,Lancaster Gate Station - Holborn Circus / Fetter Lane,Lancaster Gate - Paddington - Maida Vale - Swiss Cottage - Hampstead - Camden - King's Cross - Holborn Circus,3
+60330y0552102,IF,330,Wanstead Park Station - Canning Town,Wanstead Park - Forest Gate - Upton Park - Plaistow - Canning Town,3
+4811Ly0544167,LG,11,Hobury Street / Worlds End - Appold Street,Chelsea - Victoria - Westminster - Aldwych - St Paul's Cathedral - Liverpool Street,3
+49211Fy0547081,CX,211,Hammersmith Bus Station - Waterloo Station/Upper Taxi Rd,Hammersmith - Victoria - Waterloo,3
+49211Fy0547079,CX,211,Hammersmith Bus Station - Waterloo Station/Upper Taxi Rd,Hammersmith - Victoria - Waterloo,3
+45108Wy0549217,LC,108,Stratford Bus Station - Lewisham Station,Stratford - North Greenwich - Lewisham,3
+5424Cy0543184,ML,24,Grosvenor Road - Royal Free Hospital,Pimlico - Camden Town - Hampstead Heath,3
+8349Hy0550401,MN,349,Glyn Road (EN3) - Rookwood Road,Ponders End  Enfield Garage - Edmonton Green - Tottenham - Stamford Hill,3
+8349Hy0550403,MN,349,Glyn Road (EN3) - Rookwood Road,Ponders End  Enfield Garage - Edmonton Green - Tottenham - Stamford Hill,3
+8349Jy0550403,MN,349,Glyn Road (EN3) - Rookwood Road,Ponders End  Enfield Garage - Edmonton Green - Tottenham - Stamford Hill,3
+21415y0554220,CX,415,Hardel Rise - Dunton Road,Tulse Hill - Brixton - Old Kent Road,3
+54384y0548591,ML,384,Quinta Drive_ Arkley - Cockfosters,Barnet  Quinta Drive - New Barnet - Cockfosters,3
+54231y0547231,ML,231,Enfield Chase - Turnpike Lane Bus Station,Enfield Chase - Cambridge Roundabout - Turnpike Lane,3
+21R70y0552916,TE,R70,Nurserylands Shopping Centre - Richmond / Manor Road,Hampton  The Avenue - Hampton - Fulwell - Twickenham - Richmond  Manor Circus,3
+45100y0554066,LC,100,King Edward Street / St Pauls Station - St George's Town Hall / Shadwell Station,St Paul's Station - London Wall - Aldgate - Tower Gateway - Wapping - Shadwell,3
+54228Qy0546991,MT,228,Central Middlesex Hospital - Chippenham Road /Shirland Road,Central Middlesex Hospital - White City - Maida Hill,3
+21415y0554010,CX,415,Hardel Rise - Dunton Road,Tulse Hill - Brixton - Old Kent Road,3
+54112y0550528,ML,112,Ealing Broadway - Brent Cross Shopping Centre,Ealing Broadway - Stonebridge Park - Brent Cross,3
+48N44y0552651,LG,N44,Aldwych / Somerset House - Sutton Station / The Quadrant,Aldwych - Battersea Park - Tooting - Sutton,3
+54234y0549294,ML,234,The Spires - Highgate Wood_ Fortis Green,Barnet  Spires - Whetstone - Friern Barnet - Muswell Hill - Highgate Wood,3
+21159Ay0545750,CX,159,Streatham Station - St Thomas' Hospital / County Hall,Streatham - Brixton - Parliament Square,3
+5432y0550461,ML,32,Edgware - Kilburn Park Station,Edgware - Colindale - West Hendon - Cricklewood - Kilburn Park,3
+54228Qy0546992,MT,228,Central Middlesex Hospital - Chippenham Road /Shirland Road,Central Middlesex Hospital - White City - Maida Hill,3
+54228Qy0546990,MT,228,Central Middlesex Hospital - Chippenham Road /Shirland Road,Central Middlesex Hospital - White City - Maida Hill,3
+45N21y0552305,LC,N21,Bexleyheath Clocktower - Charing Cross,Bexleyheath - Eltham - New Cross - London Bridge - Trafalgar Square,3
+49211Fy0547080,CX,211,Hammersmith Bus Station - Waterloo Station/Upper Taxi Rd,Hammersmith - Victoria - Waterloo,3
+8W3Hy0549437,MN,W3,White Hart Ln Grt Cambridge Rd - Finsbury Park,White Hart Lane  Fenton Road - Wood Green - Alexandra Palace - Finsbury Park,3
+8W3Hy0549438,MN,W3,White Hart Ln Grt Cambridge Rd - Finsbury Park,White Hart Lane  Fenton Road - Wood Green - Alexandra Palace - Finsbury Park,3
+45N63y0553541,LC,N63,Crystal Palace Parade - King's Cross Stn / York Way,Crystal Palace - Elephant & Castle - King's Cross,3
+49K5y0553952,LU,K5,Dysart Avenue - Morden,Ham - Kingston - Morden,3
+8W6y0550407,MN,W6,Southgate - Edmonton Green Bus Station,Southgate - Palmers Green - Hedge Lane - Edmonton (Cambridge) - Haslebury Road - Edmonton Green,3
+54W8y0551606,ML,W8,Chase Farm Hospital / Main Entrance - Picketts Lock Centre,Chase Farm Hospital - Enfield - Church Street - Edmonton Green - Lee Valley Leisure Complex,3
+4876Iy0549172,LG,76,Tottenham Hale Bus Station - Finsbury Square / Moorgate,Tottenham Hale - Stamford Hill - Stoke Newington - Dalston - Hoxton - Moorgate,3
+49K4y0552957,LU,K4,Kingston Hospital - Ripon Gardens,Kingston Hospital - Surbiton - Mansfield Park,3
+54H2y0550827,ML,H2,Golders Green - Golders Green,Hampstead Garden Suburb and Golders Green Circular,3
+2168Cy0546242,CX,68,St Julian's Farm Road - Waterloo Station / Tenison Way,West Norwood - Waterloo,3
+8N29y0551011,MN,N29,Little Park Gardens - Trafalgar Square,Enfield - Winchmore Hill - Palmers Green - Wood Green - Finsbury Park - Camden Town - Tottenham Court Road - Trafalgar Square,3
+49266Ny0550880,LU,N266,Hammersmith Bus Station - Brent Cross Shopping Centre,Hammersmith - Askew Road - Acton - Harlesden - Willesden - Cricklewood - Brent Cross,3
+1METy059225819,LUL,,Amersham - Aldgate,Amersham/Chesham/Uxbridge/Watford - Harrow-on-the-Hill - Wembley Park,1
+21E9y0552473,TE,E9,Welbeck Avenue - Ealing Broadway Station / Haven Green,Barnhill Estate - Greenford - Ealing Broadway,3
+64444Hy0542190,TN,444,Turnpike Lane Bus Station - Chingford Station,Turnpike Lane Station - Angel Corner - Chingford Station,3
+64444Hy0542191,TN,444,Turnpike Lane Bus Station - Chingford Station,Turnpike Lane Station - Angel Corner - Chingford Station,3
+61139Cy0551798,SV,139,Golders Green - Piccadilly Circus,Golders Green - West Hampstead - Piccadilly Circus,3
+51403y0548397,ME,403,Warlingham / Sainsbury's - West Croydon Bus Station,Warlingham - Sanderstead - West Croydon,3
+544Ey0544923,ML,4,Archway Station - Museum Of London,Archway - Dartmouth Park Hill - Tufnell Park - Nags Head - Finsbury Park - Highbury - Islington - Barbican,3
+60362y0550272,IF,362,Manor Road (IG7) - King George Hospital,Grange Hill - Hainault - King George Hospital,3
+54268y0546523,ML,268,Golders Green - 02 Centre / Sainsbury's,Golders Green - Hampstead - Finchley Road,3
+21S4y0550957,CX,S4,Wilson's School - St Helier,Roundshaw - Sutton - St Helier,3
+64339Sy0552796,TN,339,Leytonstone Station / Grove Green Road - Shadwell DLR,Leytonstone - Stratford - Shadwell,3
+21433y0553668,CX,433,Addington Village Interchange - Park Street,Addington Village - Selsdon - South Croydon - East Croydon -  Croydon Town Centre,3
+21N68y0552501,CX,N68,Old Coulsdon / Tudor Rose - St Giles High Street,Old Coulsdon - Croydon - Norwood - Herne Hill - Camberwell - Waterloo - Tottenham Court Road,3
+54332y0550899,ML,332,Brent Park Tesco - Bishops Bridge,Brent Park Tesco - Cricklewood - Paddington,3
+60323y0553498,IF,323,Canning Town - Mile End,Canning Town - Star Lane Station - Twelvetrees Crescent - Devons Road Station - St Pauls Way - Mile End,3
+54U2y0551349,MT,U2,Brunel University - Belmont Road,Brunel University - Hillingdon Hospital - Oak Farm - Hillingdon Station - Uxbridge,3
+54W7y0549115,ML,W7,Muswell Hill Broadway - Finsbury Park,Muswell Hill - Crouch End - Finsbury Park,3
+60N86y0552877,IF,N86,Stratford Bus Station - Dagnam Park Square,Stratford - Ilford - Romford - Gallows Corner - Harold Hill  Dagnam Park Square,3
+21C3y0554009,CX,C3,Clapham Junction Station / Falcon Road - Warwick Road Tesco,Clapham Junction - Chelsea Harbour - Earl's Court  Tesco,3
+546Dy0549787,ML,6,Bertie Road - Piccadilly Circus,Willesden  Bus Garage - Kensal Rise - Queens Park - Edgware Road - Hyde Park Corner - Piccadilly Circus,3
+61395y0553036,SV,395,Harrow Bus Station - Westway Cross Retail Park,Harrow - Northolt - Greenford,3
+8335y0552014,MN,335,Wingfield School - North Greenwich Station,Kidbrooke - Westcombe Park - North Greenwich,3
+51R2y0551816,ME,R2,Orpington Police Station - East Hill,Orpington  Walnuts Centre - Locksbottom - Keston - Biggin Hill - Biggin Hill Valley,3
+45172By0545910,LC,172,Brockley Rise / Chandos - Waterloo Station / Waterloo Rd,Brockley Rise - Elephant & Castle - Waterloo,3
+8B13y0552328,MN,B13,Bexleyheath Clocktower - New Eltham,Bexleyheath - New Eltham,3
+45291y0552454,LC,291,Queen Elizabeth Hospital / West Entrance - Garland Road Clinic,Queen Elizabeth Hospital - Woolwich Arsenal - Plumstead Common - Woodlands Estate,3
+8318Ay0551683,MN,318,North Middlesex Hospital - Rookwood Road,North Middlesex Hospital - Tottenham - Stamford Hill,3
+8318Ay0551684,MN,318,North Middlesex Hospital - Rookwood Road,North Middlesex Hospital - Tottenham - Stamford Hill,3
+8253Ny0552959,MN,N253,Aldgate Bus Station - St Giles High Street,Aldgate - Bethnal Green - Hackney - Stamford Hill - Finsbury Park - Euston - Tottenham Court Road,3
+48N22y0553242,LG,N22,South Road / Fulwell - Margaret Street /Oxford Circus,Fulwell - Twickenham - Richmond - Mortlake - Barnes - Putney Bridge - Chelsea - Hyde Park Corner - Oxford Circus,3
+54316y0552440,ML,316,Mora Road - White City Bus Station,Cricklewood  Bus Garage - Kilburn - Kilburn Park - Queen's Park - Ladbroke Grove - Latimer Road Station - White City,3
+45N63y0552656,LC,N63,Crystal Palace Parade - King's Cross Stn / York Way,Crystal Palace - Elephant & Castle - King's Cross,3
+49N65y0552173,LU,N65,Chessington World Of Adventures - Ealing Broadway,Chessington World Of Aventures - Church Lane - Thornhill Road - Surbiton Station - Kingston University - Kings Road - Richmond Station - Ealing Broadway,3
+8N73y0552436,MN,N73,Holles Street - Walthamstow Bus Station,Oxford Circus - King's Cross - Essex Road - Stoke Newington - Tottenham - Walthamstow Central,3
+213Hy0536170,CX,3,Abingdon Street - Crystal Palace Parade,Westminster - Brixton - Crystal Palace,3
+54N98y0553895,ML,N98,Stanmore Station - Red Lion Square,Stanmore - Willesden - Holborn,3
+21130Cy0551875,CX,130,Vulcan Way - Norwood Junction Station,New Addington - Addington - Shirley - Norwood Junction,3
+21N3y0553710,CX,N3,Oxford Circus Stn /Margaret St - Bromley North Station,Oxford Circus - Crystal Palace - Bromley North,3
+45171Ny0553708,LC,N171,Springbank Road / Hither Green - Tottenham Court Road Station,Hither Green - Catford - Brockley - New Cross Gate - Waterloo - Holborn - Tottenham Court Road,3
+60205Ny0553632,IF,N205,Cleveland Terrace - Drapers Field,Paddington - Baker Street - Euston - Kings Cross - Liverpool Street - Whitechapel - Bow - Leyton  Downsell Road,3
+8377y0553492,MN,377,Glyn Road (EN3) - Oakwood,Ponders End  Enfield Garage - Bush Hill Park - Enfield Town - Enfield Chase - Lonsdale Drive - Oakwood,3
+859Cy0542480,SL,59,Telford Avenue - Waterloo Station / Tenison Way,Streatham Hill - Brixton - Kennington - Waterloo,3
+21E11y0552474,TE,E11,Clifton Road (UB6) - The Common / Warwick Dene,Greenford - Castle Bar Park - Ealing,3
+4887Dy0536172,LG,87,Wandsworth Plain - Lambeth Bridge (SW1),Wandsworth - Vauxhall - Westminster,3
+4811Hy0538825,LG,11,Fulham Town Hall - Westminster Abbey,Fulham Broadway - Victoria - Parliament Square,3
+499Hy0549811,LU,9,Piccadilly Circus - Hammersmith Bus Station,Piccadilly Circus  - Green Park - Hammersmith,3
+41388Ay0551664,HY,388,Stratford City Bus Station - London Bridge Bus Station,Stratford City - Hackney Wick - Victoria Park - Cambridge Heath - Bethnal Green - Liverpool Street - London Bridge,3
+54190y0553073,ML,190,George Street (TW9) - Empress State Bldg/ W Brompton,Richmond - Hammersmith - West Brompton,3
+48507y0550424,LG,507,Waterloo Station/Upper Taxi Rd - Victoria Bus Station,Waterloo - Lambeth Bridge - Victoria,3
+21U7y0551864,TE,U7,Uxbridge Station - Lombardy Retail Park,Uxbridge - Hillingdon Hospital - Charville School - Hayes  Sainsbury's,3
+54460y0547181,ML,460,Pound Lane / Willesden Bus Garage - North Finchley Bus Station,Willesden  Bus Garage - Cricklewood - Golders Green - Temple Fortune - North Finchley,3
+21350y0552476,TE,350,Millington Road - Heathrow Terminal 5,Hayes. Asda - West Drayton - Heathrow Terminal 5,3
+61288y0547698,SV,288,Queensbury Morrisons - Meadfield,Queensbury  Morrisons - Edgware - Broadfields Estate,3
+59N53y0552933,SK,N53,Orchard Road / Griffin Road - Horse Guards Parade,Plumstead Station - Woolwich Arsenal Station - New Cross Station - Elephant & Castle - Whitehall  Horse Guards,3
+41551Ny0554071,HY,N551,Trafalgar Square - Gallions Reach Shopping Park,Trafalgar Square - Bank - Aldgate - The Highway - Limehouse - Canning Town - Custom House - Beckton - Gallions Reach,3
+21E1y0552470,TE,E1,Clifton Road (UB6) - Haven Green / Ealing Broadway,Greenford - Drayton Green - Ealing Broadway,3
+54W8y0554203,ML,W8,Chase Farm Hospital / Main Entrance - Picketts Lock Centre,Chase Farm Hospital - Enfield - Church Street - Edmonton Green - Lee Valley Leisure Complex,3
+48315y0550036,LG,315,St Julian's Farm Road - Balham,West Norwood - Royal Circus - Streatham - Balham,3
+51359y0550536,ME,359,Purley / Downlands Precinct - Addington Village Interchange,Purley Cross - Selsdon - Addington Village,3
+21481y0552918,TE,481,Cromwell Road Bus Station - West London MHT,Kingston - Twickenham - West Middlesex Hospital,3
+48424y0553840,LG,424,Putney Heath / Green Man - Fulham Leisure Centre,Putney Heath - Putney - Hurlingham - Sands End - Fulham Broadway - Munster Road - Fulham  Craven Cottage,3
+60277Ny0553707,IF,N277,White Lion Street - Isle of Dogs Asda,Islington  Angel - Dalston Junction - Hackney - Victoria Park - Mile End - Canary Wharf - Crossharbour,3
+59638y0553617,SK,638,Addington Road / Glebe Way - Kemnal Technology College,Coney Hall - Bromley South - Grove Park - Kemnal Technology College,3
+71CABy051,EAL,,Emirates Air Line Greenwich Peninsula - Emirates Air Line Royal Docks,Emirates Greenwich Peninsular - Emirates Royal Docks,2
+21H20y0553715,TE,H20,Hounslow Civic Centre - Twickenham Tesco,Hounslow  Civic Centre - Hounslow Central - Isleworth - Twickenham  Tesco,3
+54N91y0553466,ML,N91,Cockfosters - Whitehall / Trafalgar Square,Cockfosters - Holloway - Trafalgar Square,3
+16396y0549105,BE,396,King George Hospital - Roden Street,King George Hospital - Gants Hill - Ilford,3
+21H26y0553644,TE,H26,Central Parade (TW14) - Hatton Cross,Feltham  Sparrow Farm - Feltham - Bedfont Lakes - Hatton Cross,3
+4126Ey0549169,HY,26,St Mary Of Eton Church - Liverpool Street Station,Hackney Wick - Liverpool Street,3
+25DLRy051,DLR,DLR,Bank - Lewisham Station,Bank/Tower Gateway/Stratford/Stratford International - Beckton/Lewisham/Woolwich Arsenal,2
+48209y0550456,LG,209,Mortlake Bus Station - Lonsdale Road,Mortlake - Avondale Road - Castlenau  Lonsdale Road.,3
+99PICBy055,RRS,DL-2,Hyde Park Corner - Acton Town,,3
+51R6y0550039,ME,R6,Orpington Bus Station - St Mary Cray/Station Approach,Orpington - St Mary Cray,3
+21109Ny0554145,CX,N109,Taberner House - Conduit Street / Hamleys Toy Store,Croydon Town Centre - Thornton Heath - Norbury - Streatham - Brixton - Westminster - Oxford Circus,3
+86W9y0554202,SN,W9,Chase Farm Hospital / Main Entrance - Southgate,Chase Farm Hospital - Enfield - Southgate,3
+8250Ny0553777,SL,N250,Brixton Rd /Brixton Police Stn - Fairfield Halls,Brixton - Streatham -  Thorton Heath - East Croydon,3
+8133Ny0548038,SL,N133,Morden - Liverpool Street Station,Morden - Streatham - Liverpool Street,3
+99DIS1y055,RRS,DL1,Shepherd's Bush (Central Line) - Ealing Broadway Station / Haven Green,Hammersmith - Acton Town,3
+54N5y0543196,ML,N5,Edgware - Whitehall / Trafalgar Square,Edgware - Colindale - Golders Green - Camden Town - Trafalgar Square,3
+1CIRy05156255,LUL,Circle,Barking Station - Barking Station,Hammersmith - King's Cross St. Pancras - Aldgate,1
+45129y0547578,LC,129,North Greenwich Station - Greenwich Town Cen/ Cutty Sark,North Greenwich - East Greenwich - Greenwich Town Centre,3
+60238y0554131,IF,238,Stratford Bus Station - High Street North_ East Ham,Stratford - Plashet - Upton Park - East Ham - Barking,3
+41550Ny0547106,HY,N550,Trafalgar Square - Canning Town,Trafalgar Square - Bank - Aldgate - Limehouse - Canary Wharf - Cubitt Town - Poplar - Canning Town,3
+1WACy0570111,LUL,,Waterloo Station - Bank,Waterloo - Bank,1
+8137Ny0541141,SL,N137,Crystal Palace Bus Station - John Princes St /Oxford Circus,Crystal Palace - Clapham - Oxford Circus,3
+1615Vy0553652,BE,15,Blackwall - Minories,Blackwall - Aldgate - Tower Hill,3
+49283Qy0540560,LU,283,Brunel Road - Hammersmith Bus Station,East Acton - Hammersmith,3
+54A10y0549763,MT,A10,Uxbridge Station - Heathrow Central Bus Station,Uxbridge - Stockley Park - Heathrow Airport,3
+51138y0550206,ME,138,Bromley North Station - Chestnut Avenue (BR4),Bromley North - Hayes - Coney Hall,3
+54533y0553517,ML,533,Hammersmith Bus Station - Lonsdale Road,Hammersmith - Chiswick Bridge - Mortlake - Barnes Bridge - Barnes - Castlenau  Lonsdale Road,3
+48378y0552787,LG,378,Mortlake Bus Station - Putney Bridge Stn /Gonville St,Putney Bridge -  Mill Hill Road -  Barnes High Street - Mortlake High Street  Avondale Road,3
+21109Ny0554219,CX,N109,Taberner House - Conduit Street / Hamleys Toy Store,Croydon Town Centre - Thornton Heath - Norbury - Streatham - Brixton - Westminster - Oxford Circus,3
+5491Dy0534570,ML,91,Tottenham Lane YMCA - Theobalds Road,Crouch End - King's Cross - Holborn,3
+64N28y0554083,TN,N28,Bayham Street - Mapleton Crescent,Camden Town - Kilburn - Notting Hill Gate - Kensington - Fulham - Wandsworth,3
+451Ay0550322,LC,1,Waterloo Station / Waterloo Rd - Canada Water Bus Station,Waterloo - Canada Water,3
+54N20y0553465,ML,N20,Barnet High St / Barnet Church - Whitehall / Trafalgar Square,Barnet Church - Finchley - Highgate - Archway - Camden Town - Trafalgar Square,3
+54140Xy0546814,ML,X140,Heathrow Central Bus Station - Harrow Bus Station,Heathrow Central - Harlington - Hayes - Yeading - Northolt - South Harrow - Harrow  Limited Stop,3
+54N7y0553894,ML,N7,Northolt Station - Oxford Circus Station / John Lewis,Northolt - Paddington - Oxford Circus,3
+8242Ny0554127,MN,N242,Homerton Hospital / Wardle St - St Giles High Street,Homerton Hospital - Hackney - Dalston - Shoreditch - Liverpool Street - St Pauls - Tottenham Court Road,3
+49411y0550931,LU,411,Cromwell Road Bus Station - Central Square / West Molesey,Kingston - Hampton Court - West Molesey,3
+8N2y0553208,SL,N2,Crystal Palace Bus Station - Marylebone Station,Crystal Palace - West Norwood - Tulse Hill - Brixton - Stockwell - Vauxhall - Victoria - Marylebone,3
+99DIS5y0511,RRS,DL-5,Victoria & Albert Museum - Wimbledon,Earl's Court - Wimbledon,3
+8L79Uy0553972,MN,DL-6,Barking Station - Wormwood Street,Barking - Canning Town - Bromley By Bow - Bow Road - Mile End - Stepney Green - Aldgate East - Liverpool Street,3
+48521y0552075,LG,521,Waterloo Station / Tenison Way - London Bridge Bus Station,Waterloo - Holborn - London Bridge,3
+8N19y0543225,MN,N19,Finsbury Park Interchange - Clapham Junction Station,Finsbury Park - Highbury - Holborn - Green Park - Chelsea - Clapham Junction,3
+48N74y0553375,LG,N74,Danebury Avenue /Minstead Gdns - Baker Street Station,Roehampton - South Kensington - Baker Street,3
+608Fy0548156,IF,8,Bow Church - Liverpool Street Station,Bow Church - Liverpool Street,3
+8N41y0551065,MN,N41,Trafalgar Square - Tottenham Hale Bus Station,Trafalgar Square - Holborn - Islington - Highbury - Holloway Road - Archway - Crouch End - Turnpike Lane - Tottenham Hale,3
+64N97y0554084,TN,N97,Hammersmith Bus Station - Whitehall / Trafalgar Square,Hammersmith - West Brompton - Earl's Court - South Kensington - Hyde Park Corner - Piccadilly Circus - Trafalgar Square,3
+48485y0552561,LG,485,Lonsdale Road - Ram Street,Castlenau - Barnes - Wandsworth,3
+54N31y0546579,ML,N31,Bayham Street - Clapham Junction Station,Camden Town - Notting Hill Gate - Clapham Junction,3
+54168By0546176,ML,168,Royal Free Hospital - Theobalds Road,Hampstead Heath - Chalk Farm - Camden Town - Euston - Holborn,3
+54N16y0553241,ML,N16,Edgware - Victoria Bus Station,Edgware - Colindale - Cricklewood - Kilburn - Edgware Road - Marble Arch - Victoria,3
+99DIS4y0512,RRS,DL4,Alexandra Rd / Wimbledon Stn - Hammersmith Broadway,Wimbledon - Hammersmith,3
+51R9y0547208,ME,R9,Orpington Bus Station - Tintagel Road / Gillmans Road,Orpington Station - Orpington War Memorial - Spur Road - Ramsden Estate,3
+33RB1y0553860,CV,RB1,Battersea Power Station Pier - Woolwich Royal Arsenal Pier,Battersea Power Station - Vauxhall - Westminster - London Bridge - Canary Wharf - Greenwich - North Greenwich - Woolwich Arsenal,4
+5417Dy0543823,ML,17,Archway Station / Holloway Road - Holborn Circus / Fetter Lane,Archway - King's Cross - Holborn Circus,3
+99DISAy0582,RRS,DL-6,Barking Station - Wormwood Street,Barking - Tower Hill,3
+54H3y0550828,ML,H3,Golders Green - East Finchley / Hill Top,Golders Green - Hampstead Heath Extension - The Bishops Avenue - East Finchley Station - Ossulton Way - East Finchley  Hill Top,3
+99METAy0551,RRS,ML-1,Harrow-on-the-Hill - Uxbridge Station,Harrow-on-the-Hill - Uxbridge,3
+45X68y0551847,LC,X68,West Croydon Bus Station - Russell Square,West Croydon - Whitehorse Lane - West Norwood - non stop to Waterloo - Aldwych - Russell Square,3
+21381Ny0553713,CX,N381,Peckham Bus Station - Horse Guards Parade,Peckham - Surrey Quays - Rotherhithe - London Bridge - Waterloo - Whitehall  Horse Guards,3
+49283Qy0540559,LU,283,Brunel Road - Hammersmith Bus Station,East Acton - Hammersmith,3
+49283Qy0540561,LU,283,Brunel Road - Hammersmith Bus Station,East Acton - Hammersmith,3
+51R8y0550040,ME,R8,Orpington Bus Station - Lebanon Gardens,Orpington Station - Green Street Green - Downe - Biggin Hill,3
+99DISBy0565,RRS,DL-7,Canning Town - Barking Station,Canning Town - Barking,3
+99DISBy0569,RRS,DL-7,Canning Town - Barking Station,Canning Town - Barking,3
+99PICEy054,RRS,PL-4,Gunnersbury Station - Uxbridge Station,Acton Town - Alperton - Rayners Lane,3
+49N33y0553488,LU,N33,Fulwell - Hammersmith Bus Station,Fulwell - Teddington - Twickenham -  North Sheen Station - Barnes Station - Fulham High Street - Hammersmith Bus Station,3
+86W9y0551609,SN,W9,Chase Farm Hospital / Main Entrance - Southgate,Chase Farm Hospital - Enfield - Southgate,3
+21L16Uy0553919,CX,C,Stratford City Bus Station - Romford Station,Stratford City - Forest Gate - Manor Park - Ilford - Seven Kings - Goodmayes - Chadwell Heath - Romford,3
+21L16Uy0553920,CX,C,Stratford City Bus Station - Romford Station,Stratford City - Forest Gate - Manor Park - Ilford - Seven Kings - Goodmayes - Chadwell Heath - Romford,3
+21L16Uy0553921,CX,C,Stratford City Bus Station - Romford Station,Stratford City - Forest Gate - Manor Park - Ilford - Seven Kings - Goodmayes - Chadwell Heath - Romford,3
+21L16Uy0553922,CX,C,Stratford City Bus Station - Romford Station,Stratford City - Forest Gate - Manor Park - Ilford - Seven Kings - Goodmayes - Chadwell Heath - Romford,3
+21L16Uy0553923,CX,C,Stratford City Bus Station - Romford Station,Stratford City - Forest Gate - Manor Park - Ilford - Seven Kings - Goodmayes - Chadwell Heath - Romford,3
+21L16Uy0553924,CX,C,Stratford City Bus Station - Romford Station,Stratford City - Forest Gate - Manor Park - Ilford - Seven Kings - Goodmayes - Chadwell Heath - Romford,3
+21L16Uy0553925,CX,C,Stratford City Bus Station - Romford Station,Stratford City - Forest Gate - Manor Park - Ilford - Seven Kings - Goodmayes - Chadwell Heath - Romford,3
+21L16Uy0553918,CX,C,Stratford City Bus Station - Romford Station,Stratford City - Forest Gate - Manor Park - Ilford - Seven Kings - Goodmayes - Chadwell Heath - Romford,3
+48718y0553301,LG,718,Morden - Morden,Morden Station - Rose Hill Roundabout - Bishopsford Road - Morden Station,3
+54140Ny0553946,ML,N140,Heathrow Central Bus Station - Long Elmes_ Harrow Weald,Heathrow Central - Harlington - Hayes - Yeading - Northolt - South Harrow - Harrow - Wealdstone - Harrow Weald  Bus Garage,3
+1HAMy05376212,LUL,,Ealing Broadway - Upminster Station,Hammersmith - King's Cross St. Pancras - Barking,1
+62383y0537628,UN,383,The Spires - Woodside Park,Barnet - Oakleigh Park - Woodside Park,3
+45100My0554066,LC,100,London Wall / Museum Of London - St George's Town Hall / Shadwell Station,London Wall - Aldgate - Tower Gateway - Wapping - Shadwell,3
+33RB4y0553726,CV,RB4,Doubletree Docklands Nelson Dock Pier - Canary Wharf Pier,Doubletree Docklands - Canary Wharf,4
+21U9y0549448,TE,U9,Uxbridge Station - Harefield Hospital,Uxbridge - Ickenham - Harefield,3
+45343Ny0552598,LC,N343,Trafalgar Square/Charing Cross - New Cross / Jerningham Road,Trafalgar Square - Stamford Street - London Bridge - Elephant & Castle - Peckham - Nunhead - New Cross Gate,3
+99TFLDy0579,RRS,,Liverpool Street Station - Shenfield Station,Newbury Park - Shenfield,3
+99TFLDy0580,RRS,,Liverpool Street Station - Shenfield Station,Newbury Park - Shenfield,3
+99TFLDy0581,RRS,,Liverpool Street Station - Shenfield Station,Newbury Park - Shenfield,3
+99TFLDy0582,RRS,,Liverpool Street Station - Shenfield Station,Newbury Park - Shenfield,3
+99TFLDy0583,RRS,,Liverpool Street Station - Shenfield Station,Newbury Park - Shenfield,3
+99TFLDy0578,RRS,,Liverpool Street Station - Shenfield Station,Newbury Park - Shenfield,3
+54113Ny0541092,ML,N113,Edgware - Trafalgar Square,Edgware - Mill Hill - Hendon Central - Finchley Road - Baker Street - Oxford Circus - Trafalgar Square,3
+49N72y0552762,LU,N72,Brunel Road - Norley Vale,East Acton - Hammersmith - Roehampton,3
+99TFLDy0584,RRS,,Liverpool Street Station - Shenfield Station,Newbury Park - Shenfield,3
+99TFLDy0585,RRS,,Liverpool Street Station - Shenfield Station,Newbury Park - Shenfield,3
+99BAKAy0531,RRS,BL-1,Harrow & Wealdstone Station - Queen's Park Station (London),Harrow & Wealdstone - Queen's Park,3
+48424Fy0543804,LG,424,Putney Heath / Green Man - Fulham Cross,Putney Heath - Wandsworth - Fulham,3
+48379y0550135,LG,379,Chingford Station - Yardley Lane Estate,Chingford - Hawkwood Crescent - Yardley Lane Estate,3
+8347y0552799,MN,347,Romford Station - Ockendon Station,Romford Station - Harold Wood - Upminster - Ockendon,3
+21N27y0554201,CX,N27,Hammersmith Bus Station - Chalk Farm Morrisons,Hammersmith - Kensington - Notting Hill Gate - Edgware Road - Camden - Chalk Farm,3
+16346y0541598,BE,346,Upminster Stn/St Lawrence Road - Lexington Way,Upminster - Upminster Park Estate,3
+1BAKy059190330,LUL,,Elephant & Castle Station - Harrow & Wealdstone Station,Elephant & Castle - Waterloo - Queen's Park,1
+59146y0551135,SK,146,Bromley North Station - Downe Church,Bromley - Hayes (Kent) - Downe,3
+499y0554171,LU,9,Hyde Park Corner - Hammersmith Bus Station,Hyde Park Corner - Royal Albert Hall - Kennsington Station -  Hammersmith,3
+48424Fy0543803,LG,424,Putney Heath / Green Man - Fulham Cross,Putney Heath - Wandsworth - Fulham,3
+48424Fy0543805,LG,424,Putney Heath / Green Man - Fulham Cross,Putney Heath - Wandsworth - Fulham,3
+6425Uy0553950,TN,25,Stratford Bus Station - Hainault Street,Stratford - Ilford  extra journeys,3
+6425Uy0553952,TN,25,Stratford Bus Station - Hainault Street,Stratford - Ilford  extra journeys,3
+21UL7Ty0554166,CX,T,Walthamstow Bus Station - Barking Station,Walthamstow Bus Station - Wanstead Park Station - East Ham Station - Barking Station,3
+35WFFcy052,WFF,,Woolwich Ferry South Pier - Woolwich Ferry North Pier,,4
+86688y0553438,SN,688,Southgate - Jewish Free School,Southgate - Totteridge - Mill Hill - Kingsbury,3
+54U10y0552927,MT,U10,Uxbridge Station - Glenhurst Avenue,Uxbridge - Ruislip - Heathfield Rise,3
+64L89Uy0554178,TN,C,Stratford City Bus Station - Ilford Hill,Stratford City Bus Station - Woodgrange Road - High Street North - Ilford Stratford,3
+54N83y0540999,MT,N83,Golders Green - Ealing Hospital,Golders Green - Wembley - Ealing Hospital,3
+99TFLCy0566,RRS,,Romford Station - Stratford City Bus Station,Ilford - Stratford,3
+33RB2y0553735,CV,RB2,Battersea Power Station Pier - Canary Wharf Pier,Battersea Power Station - Vauxhall - Westminster - Tower - Canary Wharf,4
+60497y0545815,IF,497,Chippenham Road (RM3) - Harold Wood,Harold Hill  Gooshays Drive - Hilldene Avenue - Chatteris Avenue - Gallows Corner Tesco - Kings Park - Harold Wood Station,3
+21UL3y0554207,CX,M,Canada Water Bus Station - Clapham Junction Station / The Falcon,Canada Water - Peckham Rye - Clapham Junction,3
+16646y0540846,BE,646,Wincanton Road_ Noak Hill - Moor Lane_ Cranham,Noak Hill - Upminster - Cranham,3
+41385y0553664,HY,385,Chingford Station - Salisbury Hall Sainsbury's,Chingford Station - Waltham Way - Chingford Mount - Crooked Billet  Sainsbury's,3
+33RB6y0553947,CV,RB6,Putney Pier - Canary Wharf Pier,Putney - Wandsworth - Battersea Power Station - Vauxhall - Westminster - London Bridge - Canary Wharf,4
+65H4y052,HH,H4,Heathrow Airport Terminal 3 - Heathrow_ Terminal 2 Arrivals,Heathrow - Thistle T5 - Premier Inn T5 - Sheraton Heathrow - Hyatt Place - Easirent - Leonardo - Renaissance - Heathrow,3
+65H1y052,HH,H1,Heathrow Airport Terminal 3 - Heathrow_ Terminal 2 Arrivals,Heathrow - Holiday Inn M4/J4 - Novotel - Crowne Plaza - Premier Inn M4/J4 - Mercure - EasyHotel - Park Inn - Heathrow,3
+49696y0551646,LU,696,Conway Drive - Hume Way,Hayes - Yeading - Bishop Ramsey School,3
+65H3y052,HH,H3,Heathrow Airport Terminal 3 - Heathrow_ Terminal 2 Arrivals,Heathrow Airport - Park Inn - Radisson Blu Edwardian - Heathrow Marriott - Sheraton Skyline - Heathrow Airport,3
+65H6y052,HH,H6,Heathrow Airport Terminal 3 - Heathrow_ Terminal 2 Arrivals,Heathrow - Renaissance - Holiday Inn Ariel - Ibis - Premier Inn Bath Road - Heathrow Airport,3
+8UL8Jy0554092,MN,J,Gordon House Road - Birstall Road / Seven Sisters Station,Gospel Oak - Archway - Finsbury Park - Harringay Green Lanes - Seven Sisters,3
+16679y0548983,BE,679,Bancroft's School - Goodmayes Lane,Woodford Wells - South Woodford - Gants Hill - Ilford - Goodmayes,3
+65H53y053,HH,H53,Heathrow Terminal 4 - Heathrow Terminal 4,Terminals 4 and 5 - Sofitel - Ibis Styles - Radisson BLU - Heathrow Marriott - Sheraton Skyline - Sofitel - Terminals 4 and 5,3
+59669y0550430,SK,669,Thamesmead Town Centre - Bexley Lane / Cleeve Park School,Thamesmead - Abbey Wood - Belvedere - Erith - Bexley - Cleeve Park School,3
+45658y0552780,LC,658,Bexley Road / Crown Woods School - Beresford Sq /Woolwich Arsenal,Crown Woods College - Falconwood - Welling - Plumstead Common - Woolwich,3
+65H56y052,HH,H56,Heathrow Terminal 5 - Heathrow Terminal 5,Terminals 4 and 5 / Sofitel - Hilton Garden Inn - Holiday Inn Ariel - Ibis - Double Tree - Premier Inn Bath Road - Hilton Garden Inn - Terminals 4 and 5 / Sofitel,3
+49391y0554194,LU,391,Oxford Road North - Hammersmith Bus Station,Gunnersbury Station - Chiswick Lane - Ravenscourt Park Station - Hammersmith,3
+65H57y052,HH,H57,Heathrow Terminal 4 - Heathrow Terminal 4,Terminal 4 - Hilton T4 - Terminal 5 - Holiday Inn Heathrow T5 - Hilton T5 - Travelodge T5 - Terminal 5 - Terminal 4,3
+65H51y053,HH,H51,Heathrow Terminal 5 - Heathrow Terminal 5,Terminal 5 - Thistle T5 - Premier Inn T5 - Holiday Inn M4/J4 - Novotel - Crowne Plaza - Thistle T5 - Premier Inn T5 - Terminal 5,3
+65H54y053,HH,H54,Heathrow Terminal 5 - Heathrow Terminal 5,Terminal 5 - Sheraton Heathrow - Hyatt Place - Easirent - Leonardo - Park Inn - Renaissance - Sheraton Heathrow - Terminal 5,3
+60678y0552704,IF,678,St George's Road (E7) - Beckton Bus Station,Stratford - Upton Lane - Plaistow - Prince Regent - Cyprus - Beckton,3
+6425Uy0553951,TN,25,Stratford Bus Station - Hainault Street,Stratford - Ilford  extra journeys,3
+21N27y0549565,CX,N27,Hammersmith Bus Station - Chalk Farm Morrisons,Hammersmith - Kensington - Notting Hill Gate - Edgware Road - Camden - Chalk Farm,3
+65H55y052,HH,H55,Heathrow Terminal 5 - Heathrow Terminal 5,Terminal 5 - Holiday Inn Express T5 - Heathrow Windsor Marriott - Terminal 5,3
+49698y0546509,LU,698,West Drayton Station - Ickenham,West Drayton - Shepiston Lane - Hayes - Church Road - Hayes End - Long Lane - Hillingdon Station - Ickenham,3
+99DISy05312,RRS,DIS,Earl's Court Station - Kensington (Olympia) Station,Earls Court - Kensington (Olympia),3
+54N91Ay0546039,ML,N91,Cockfosters - Theobalds Road,Cockfosters - Holloway - Holborn,3
+61642y0545745,SV,642,West Hendon Bdwy/Herbert Road - London Academy,West Hendon Broadway - Colindale - Grahame Park - Deansbrook Road - Edgware - Stonegrove - London Academy,3
+99BAKby0518,RRS,BL-2,Harrow & Wealdstone Station - Paddington Station / Eastbourne Terrace,Harrow & Wealdstone - Stonebridge Park,3
+86626y0547500,SN,626,Dollis Park / Finchley Central - Dame Alice Owen's School,Finchley Central - Barnet - Dame Alice Owen's School,3
+86653y0553433,SN,653,Princes Avenue (N10) - Jewish Free School,Muswell Hill - East Finchley - Finchley Central - Hendon - West Hendon - Kingsbury,3
+59602y0552985,SK,602,Thamesmead Town Centre - Townley Grammar School,Thamesmead - Abbey Wood - Belvedere - Erith - Barnehurst - Townley Grammar School,3
+74633y0553334,EB,633,Coulsdon South - Church Road (SM6),Coulsdon South Station - Beddington Church  Croydon Road,3
+48639y0553232,LG,639,Danebury Avenue /Minstead Gdns - St John Bosco College,Roehampton  Danebury Avenue - Putney Heath - Southfields - Wandsworth - Clapham Junction - St John Bosco College,3
+54632y0552356,ML,632,South Mead - Kilburn Park Station,Grahame Park  Corner Mead - Colindale - West Hendon - Cricklewood - Kilburn Park,3
+86683y0553436,SN,683,Colney Hatch Lane - Jewish Free School,Friern Barnet - North Finchley - Finchley Central - Hendon - West Hendon - Kingsbury,3
+48W10y0553670,LG,W10,Crews Hill - Enfield Town / Cecil Road,Crews Hill - Willow Road - Enfield Town,3
+99DISy05303,RRS,DIS,Earl's Court Station - Kensington (Olympia) Station,Earls Court - Kensington (Olympia),3
+99DISy05304,RRS,DIS,Earl's Court Station - Kensington (Olympia) Station,Earls Court - Kensington (Olympia),3
+99DISy05305,RRS,DIS,Earl's Court Station - Kensington (Olympia) Station,Earls Court - Kensington (Olympia),3
+99DISy05306,RRS,DIS,Earl's Court Station - Kensington (Olympia) Station,Earls Court - Kensington (Olympia),3
+99DISy05308,RRS,DIS,Earl's Court Station - Kensington (Olympia) Station,Earls Court - Kensington (Olympia),3
+99DISy05310,RRS,DIS,Earl's Court Station - Kensington (Olympia) Station,Earls Court - Kensington (Olympia),3
+99DISy05313,RRS,DIS,Earl's Court Station - Kensington (Olympia) Station,Earls Court - Kensington (Olympia),3
+99DISy05314,RRS,DIS,Earl's Court Station - Kensington (Olympia) Station,Earls Court - Kensington (Olympia),3
+99DISy05309,RRS,DIS,Earl's Court Station - Kensington (Olympia) Station,Earls Court - Kensington (Olympia),3
+48847y051,HCT,,HereEast / The Yard - HereEast / The Yard,HereEast - Stratford International - Stratford City - HereEast,3
+49N9Fy0549813,LU,N9,Piccadilly Circus - Heathrow Terminal 5,Piccadilly Circus - Hammersmith -  Hounslow - Heathrow Airport,3
+49681y0553358,LU,681,Hounslow Bus Station - Broom Road / Teddington School,Hounslow - Twickenham - Teddington School,3
+21N3Dy0549271,CX,N3,Abingdon Street - Bromley North Station,Westminster - Crystal Palace - Bromley North,3
+49697y0546508,LU,697,Whittington Avenue - Ickenham,Hayes End  Lansbury Drive - Yeading - Uxbridge Road - Long Lane - Hillingdon Station - Ickenham,3
+86603y0548493,SN,603,Princes Avenue (N10) - Swiss Cottage,Muswell Hill Broadway - East Finchley - Highgate - Hampstead - Swiss Cottage,3
+48N87By0546319,LG,N87,Fairfield Bus Station - Abingdon Street,Kingston - Wimbledon - Westminster,3
+45624y0552779,LC,624,Grove Park Station - Welling Library,Grove Park - Mottingham - Eltham - Crown Woods College - Falconwood - Welling Corner,3
+65H7y052,HH,H7,Heathrow Airport Terminal 3 - Heathrow_ Terminal 2 Arrivals,Heathrow - Renaissance - Double Tree by Hilton - Travelodge Central - Renaissance - Heathrow,3
+16652y0540848,BE,652,Abbey Wood Lane - Upminster Station,Rainham  Abbey Wood Lane - Hornchurch - Upminster,3
+48N11Cy0549980,LG,N11,Ealing Broadway - Parliament Square,Ealing Broadway - Acton Town - Chiswick - Hammersmith - Fulham - Victoria - Westminster,3
+86699y0553055,SN,699,Green Dragon Lane - Dame Alice Owen's School,Winchmore Hill - Southgate - Dame Alice Owen's School,3
+16648y0541157,BE,648,Romford Market - Moor Lane_ Cranham,Romford - Hornchurch - Upminster - Cranham,3
+21969y0542491,TE,969,Gladstone Avenue_ Whitton - Roehampton Vale Asda,Whitton - Barnes - Roehampton Vale,3
+59664y0551814,SK,664,Charles Darwin School - Homestead Way / Milne Park,Charles Darwin School - Biggin Hill - Keston - Coney Hall - Addington Village - New Addington  Homestead Way,3
+8690y0547758,SL,690,St Julian's Farm Road - Burntwood School,West Norwood - Brixton - Clapham Common - Burntwood School,3
+65H8y052,HH,H8,Heathrow Airport Terminal 3 - Heathrow_ Terminal 2 Arrivals,Heathrow - ParkInn - easyHotel - Mercure - Premier Inn M4/J4 - Park Inn - Heathrow,3
+8660y0552647,MN,660,Newquay Road - Bexley Road / Crown Woods School,Bellingham  Catford Bus Garage - Catford - Hither Green - Eltham - Crown Woods School,3
+54606y0551622,ML,606,Queensbury - The Totteridge Academy /Barnet,Queensbury - Edgware - Barnet,3
+48616y0548410,LG,616,Old Park Ridings - Edmonton Green Bus Station,Winchmore Hill - Palmers Green - Edmonton Green,3
+49613y0549671,LU,613,Tolworth - Glenthorne High School,Tolworth - Worcester Park - Glenthorne School,3
+33RB5y0553727,CV,RB5,North Greenwich Pier - Woolwich Royal Arsenal Pier,North Greenwich - Royal Wharf - Woolwich Royal Arsenal,4
+86605y0544085,SN,605,Edgware - Totteridge & Whetstone,Edgware - Burnt Oak - Mill Hill Broadway - Mill Hill County High School / Totteridge & Whetstone Station,3
+49671y0552170,LU,671,Tiffin School For Girls - Chessington South,Tiffin School For Girls - Surbiton - Hook - Chessington South,3
+86629y0547070,SN,629,Haringey Civic Centre - Turkey Street,Wood Green - Enfield - St Ignatius College,3
+65H9y052,HH,H9,Heathrow Airport Terminal 3 - Heathrow_ Terminal 2 Arrivals,Heathrow Airport - Ibis Styles - Hilton Garden Inn - Ibis Styles - Heathrow Airport,3
+51654y0550671,ME,654,Addington Village Interchange - Eldred Drive,Addington Village - Coney Hall - Locksbottom - Orpington - Chelsfield - Priory School,3
+45625y0550642,LC,625,Warwick Terrace/Plumstead C Rd - Chislehurst War Memorial,Plumstead Common - Welling - Blackfen - Sidcup - Chislehurst  War Memorial,3
+8612y0553473,SL,612,Selsdon Library - The Holt,Selsdon - Woodcote - Wallington  County Grammar School,3
+86628y0553431,SN,628,Jewish Free School - Southgate,Kingsbury  The Mall - Mill Hill Broadway - Totteridge - Whetstone - Osidge - Southgate,3
+48670y0553237,LG,670,Danebury Avenue /Minstead Gdns - St John Bosco College,Roehampton  Danebury Avenue - Putney Heath - West Hill - Wandsworth - Clapham Junction - St John Bosco College,3
+99LORMy0545,RRS,M,Canada Water Bus Station - Clapham Junction Station / The Falcon,Canada Water - Clapham Junction,3
+16656y0552327,BE,656,Emerson Park School - Gallows Corner / Tesco,Emerson Park School - Harold Wood - Gallows Corner,3
+54634y0547447,ML,634,Queens Avenue (N10) - Galley Lane,Muswell Hill - Colney Hatch Lane - Friern Barnet - Whetstone - High Barnet - Barnet  Arkley Hotel,3
+59621y0553345,SK,621,Lewisham Station - Bexley Road / Crown Woods School,Lewisham - Lee Green - Eltham Green - Eltham - Crown Woods School,3
+48155Xy0549836,LG,N155,Morden - Parliament Square,Morden - Tooting Broadway - Balham - Clapham - Stockwell - Kennington - Elephant & Castle - Westminster,3
+16674y0553608,BE,674,Dagnam Park Square - Romford Station,Harold Hill - Gallows Corner - Romford,3
+8627y0550751,SL,627,Worcester Park - Woodcote Green,Worcester Park - Cheam - Sutton - Carshalton - Wallington - Wallington High School,3
+16686y0547068,BE,686,St Edward's / C of E Academy - Stratton Road,St Edward's School - Romford,3
+16651y0546294,BE,651,Romford Station - Chase Cross,Romford Station - Collier Row - Bower Park School,3
+51684y0551815,ME,684,Orpington Bus Station - Charles Darwin School,Orpington - Keston - Charles Darwin School,3
+46812by051,HCT,812,Baring Street - Baring Street,Hoxton - Old Street - Hoxton,3
+99LORTy0571,RRS,T,Walthamstow Bus Station - Barking Station,Walthamstow Central - Barking,3
+86399y0553082,SN,399,The Spires - Hadley Wood,Barnet - Monken Hadley - Hadley Wood,3
+99LORSy0547,RRS,S,Camden Road Station - Stratford City Bus Station,Camden Road - Stratford,3
+54611y0546075,ML,611,Stonebridge Park Station - East Finchley Cemetery,Stonebridge Park - Brent Cross - East Finchley Schools,3
+33B1XRy0552753,CV,RB1X,Westminster Pier - Royal Wharf Pier,Westminster - North Greenwich - Royal Wharf,4
+99LORRy0527,RRS,R,Gunnersbury Station - Camden Road Station,Camden Road - Willesden Junction - Gunnersbury,3
+48675y0551784,LG,675,St James Street Station - Broadmead Road (IG8),Walthamstow - Highams Park - Woodbridge High School,3
+8689y0553636,SL,689,West Croydon Bus Station - Glade Gardens,West Croydon - Addiscombe - Monks Orchard,3
+16650y0547321,BE,650,Romford Bus Garage - Emerson Park School,Romford  Parkside Avenue - Romford - Gidea Park - Emerson Park School,3
+99LOR1y0551,RRS,L1,Enfield Town Station - Liverpool Street Station,Enfield Town - Liverpool Street,3
+99LOR1y0552,RRS,L1,Enfield Town Station - Liverpool Street Station,Enfield Town - Liverpool Street,3
+86617y0547069,SN,617,Turnpike Lane Bus Station - Turkey Street,Turnpike Lane - Edmonton (Cambridge) - St Ignatius College,3
+49665y0550859,LU,665,Berrylands Road - Sandal Road / Holy Cross School,Berrylands - Tolworth - New Malden - Holy Cross School,3
+59661y0550428,SK,661,Station Square /Petts Wood Stn - Centre Common Road /War Memorial,Petts Wood - St Mary Cray - Chislehurst  War Memorial,3
+99LOR3y0567,RRS,L3,Liverpool Street Station - Chingford Station,Liverpool Street - Chingford,3
+86640y0550113,SN,640,South Harrow - Bentley Wood High School,South Harrow - Harrow - Bentley Wood School,3
+21L65Uy0554176,CX,L2,Amhurst Road / Dalston Lane - Cheshunt Station,Liverpool Street - Cheshunt,3
+51663y0553843,ME,663,Thornton Heath Station - Regina Coeli School,Thornton Heath Station - Thornton Heath Pond - Purley Way - Waddon - Purley  Harris Academy,3
+21L66Uy0554191,CX,L1,Amhurst Road / Dalston Lane - Enfield Town Station,Liverpool Street - Enfield Town,3
+48655y0549978,LG,655,Love Lane_ Mitcham - Raynes Park High School,Mitcham - South Wimbledon - Raynes Park High School,3
+16687y0544075,BE,687,Ridgewell Close - Barking Station,Dagenham Park - Dagenham - Barking,3
+16649y0546292,BE,649,Romford Bus Garage - Campion School,Romford - Gidea Park - Country Park Estate,3
+54643y0552660,ML,643,Brent Cross Shopping Centre - Christ's College,Brent Cross - Hendon Central - Finchley Lane - Hendon Lane - East End Road - East Finchley Schools,3
+99LOR2y0554,RRS,L2,Cheshunt Station - Liverpool Street Station,Cheshunt - Liverpool Street,3
+99LOR2y0555,RRS,L2,Cheshunt Station - Liverpool Street Station,Cheshunt - Liverpool Street,3
+49662y0550858,LU,662,Surbiton Station/Claremont Rd - Sandal Road / Holy Cross School,Surbiton - Tolworth - Holy Cross School,3
+86389y0546493,SN,389,The Spires - Western Way,Barnet - Western Way,3
+99DISCy0545,RRS,DL-3,Richmond Station - Victoria & Albert Museum,Richmond - Turnham Green,3
+48657y0553620,LG,657,Salisbury Hall Sainsbury's - Bancroft's School,Crooked Billet - Chingford Mount - Woodford Green - Bancrofts School,3
+8673y0551218,MN,673,Pemberton Gardens - Beckton Bus Station,Warren School - Becontree Heath - Dagenham Heathway - Dagenham - Beckton,3
+87LWBy054,LWB,LWB,Little Venice Waterbus Stop - Camden Lock Waterbus,Camden Lock - London Zoo - Little Venice,4
+54631y0550076,ML,631,Golders Green - Henrietta Barnett School,Golders Green - Hoop Lane - Meadway - Henrietta Barnett School,3
+59672y0550433,SK,672,Hawksmoor School - Beresford Sq /Woolwich Arsenal,Hawksmoor School - Plumstead - Woolwich Arsenal,3
+33B6ARy0554012,CV,RB6A,Putney Pier - Canary Wharf Pier,,4
+86692y0548024,SN,692,Dame Alice Owen's School - Southgate,Dame Alice Owen's School - Southgate Station,3
+66DSMy051,ATC,,Barking Station - Dagenham Sunday Market,Barking - Dagenham Sunday Market,3
+65H57Xy051,HH,H57X,Heathrow Terminal 5 - Heathrow Terminal 5,Heathrow Terminal 5 - Hilton Terminal 5 - Heathrow Terminal 5,3

@@ -1,0 +1,32 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+SK,SOUTH EAST LONDON & KENT BUS COMPANY LTD,http://www.URL-IS-MISSING.com,Europe/London,en
+LUL,London Underground,http://www.URL-IS-MISSING.com,Europe/London,en
+IF,EAST LONDON BUS & COACH COMPANY LIMITED,http://www.URL-IS-MISSING.com,Europe/London,en
+LU,LONDON UNITED BUSWAYS LIMITED,http://www.URL-IS-MISSING.com,Europe/London,en
+LG,LONDON GENERAL TRANSPORT SERVICES LTD,http://www.URL-IS-MISSING.com,Europe/London,en
+MN,ARRIVA LONDON NORTH LIMITED,http://www.URL-IS-MISSING.com,Europe/London,en
+ME,METROBUS LIMITED,http://www.URL-IS-MISSING.com,Europe/London,en
+LC,LONDON CENTRAL BUS COMPANY LIMITED,http://www.URL-IS-MISSING.com,Europe/London,en
+SV,LONDON SOVEREIGN LIMITED,http://www.URL-IS-MISSING.com,Europe/London,en
+TN,TOWER TRANSIT LIMITED,http://www.URL-IS-MISSING.com,Europe/London,en
+SL,ARRIVA LONDON SOUTH LIMITED,http://www.URL-IS-MISSING.com,Europe/London,en
+CX,ABELLIO LONDON LIMITED,http://www.URL-IS-MISSING.com,Europe/London,en
+TE,ABELLIO LONDON (WEST) LIMITED,http://www.URL-IS-MISSING.com,Europe/London,en
+ML,METROLINE TRAVEL LIMITED,http://www.URL-IS-MISSING.com,Europe/London,en
+BE,BLUE TRIANGLE BUSES LIMITED,http://www.URL-IS-MISSING.com,Europe/London,en
+DC,DOCKLANDS BUSES LIMITED,http://www.URL-IS-MISSING.com,Europe/London,en
+MT,METROLINE WEST LIMITED,http://www.URL-IS-MISSING.com,Europe/London,en
+EB,H R RICHMOND LIMITED,http://www.URL-IS-MISSING.com,Europe/London,en
+HY,C T PLUS LIMITED,http://www.URL-IS-MISSING.com,Europe/London,en
+DLR,Docklands Light Railway,http://www.URL-IS-MISSING.com,Europe/London,en
+SN,SULLIVAN BUS & COACH LIMITED,http://www.URL-IS-MISSING.com,Europe/London,en
+TCL,London Trams,http://www.URL-IS-MISSING.com,Europe/London,en
+EAL,Emirates Air Line,http://www.URL-IS-MISSING.com,Europe/London,en
+RRS,Replacement Service,http://www.URL-IS-MISSING.com,Europe/London,en
+CV,MBNA THAMES CLIPPERS,http://www.URL-IS-MISSING.com,Europe/London,en
+UN,UNO BUSES LIMITED,http://www.URL-IS-MISSING.com,Europe/London,en
+WFF,Woolwich Ferry,http://www.URL-IS-MISSING.com,Europe/London,en
+HH,Hotel Hoppa,http://www.URL-IS-MISSING.com,Europe/London,en
+HCT,Hackney Community Transport,http://www.URL-IS-MISSING.com,Europe/London,en
+LWB,London Waterbus,http://www.URL-IS-MISSING.com,Europe/London,en
+ATC,At Coaches,http://www.URL-IS-MISSING.com,Europe/London,en
