@@ -44,7 +44,22 @@ def load_csv(name):
 
     return df
 
+################################################################################
+# if file is not in directory, we source it from github
+def load_geojson(name):
+    if not os.path.exists(name):
+        url = 'https://raw.githubusercontent.com/yunusskeete/People/main/' + name
+        r = requests.get(url) # attain the server's response to the HTTP request
 
+        # write file to file name:
+        with open(name, "w") as f:
+            f.write(r.content.decode("utf-8")) # decoding
+
+    # once file has been created/located, we read it
+    with open(name, 'r') as f:
+        geojson_data = json.load(f)
+
+    return geojson_data
 
 ################################################################################
 
