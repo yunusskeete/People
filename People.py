@@ -73,7 +73,21 @@ def load_geojson(name):
 
 ################################################################################
 
-class click_location(object): # why an object?
+class click_location(object):
+    """ returns a coordinate with attributes of lat, lng. 
+
+    Args:
+        (
+            latitude,
+            longitude
+        )
+
+    Returns:
+        coordinate class
+
+    Ammend:
+        change class name: coordinates <-- click_location
+    """
 
     def __init__(self, lat, lng):
 
@@ -86,6 +100,18 @@ class click_location(object): # why an object?
 ################################################################################
 
 def distance(click_location, circle_layer):
+    """ returns the distance between two latitude-longitude pairs. 
+
+    Args:
+        lat-lng 1: click_location - class: click_location
+        lat-lng 2: circle_layer - list [lat, lng] or tuple (lat, lng)
+
+    Returns:
+        (int or float?): The distance between the two points
+
+    Ammend:
+        change circle_layer to class: coordinates (click_location)
+    """
 
     R = 6373.0 # radius of the Earth
 
@@ -116,6 +142,54 @@ def distance(click_location, circle_layer):
 
 
     return distance
+
+
+
+################################################################################
+
+def centroid(quadrant):
+    """ returns the centroid of a quadrant.
+
+    Args:
+        quadrant: e.g. geo_json_quadrants.data['features'][10]:
+                        {'type': 'Feature',
+                        'id': '10',
+                        'properties': {'id': [],
+                        'series': {'entries': [], 'exits': {}, 'busyness': {}, 'other': {}},
+                        'stations': {'details': {},
+                        'series': {'entries': {}, 'exits': {}, 'busyness': {}, 'other': {}}},
+                        'style': {'color': 'white',
+                        'opacity': 0,
+                        'weight': 1.0,
+                        'dashArray': '3',
+                        'fillOpacity': 0}},
+                        'geometry': {'type': 'Polygon',
+                        'coordinates': [[[-0.3808747973970611, 51.3785],
+                            [-0.35752227713676726, 51.3785],
+                            [-0.35752227713676726, 51.39212083333334],
+                            [-0.3808747973970611, 51.39212083333334],
+                            [-0.3808747973970611, 51.3785]]]}}                            
+
+    Returns:
+        centroid - set of coordinates of class: coordinates (click_location) - of a quadrant
+
+    Ammend:
+        NA
+    """
+
+    lat_min = quadrant['geometry']['coordinates'][0][0][1]
+    lat_max = quadrant['geometry']['coordinates'][0][1][1]
+
+    lng_min = quadrant['geometry']['coordinates'][0][0][0]
+    lng_max = quadrant['geometry']['coordinates'][0][1][0]
+    
+    lat_avg = (lat_min+lat_max)/2
+    lng_avg = (lng_min+lng_max)/2
+
+    centroid = click_location(lat_avg, lng_avg)
+
+
+    return centroid
 
 
 
