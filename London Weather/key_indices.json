@@ -1,0 +1,23 @@
+{
+    "Weather code": 0,
+    "Temperature (\u00b0C)": 1,
+    "Dew point temperature (\u00b0C)": 2,
+    "Precipitation (%)": 3,
+    "Clouds (%)": 4,
+    "Relative humidity (%)": 5,
+    "Pressure (hPa)": 6,
+    "Wind speed (m/s)": 7,
+    "Visibility (km)": 8,
+    "Sunrise (hour)": 9,
+    "Sunset (hour)": 10,
+    "Snow (%)": 11,
+    "Air Quality Index, AQI": 12,
+    "PM2.5": 13,
+    "PM10": 14,
+    "SO2": 15,
+    "NO": 16,
+    "NO2": 17,
+    "CO": 18,
+    "O3": 19,
+    "NH3": 20
+}
