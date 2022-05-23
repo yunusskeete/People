@@ -6404,5 +6404,28 @@
         "co": 206.95,
         "o3": 43.63,
         "nh3": 0.43
+    },
+    "2022-05-24 00:11:00": {
+        "weather_code": 501,
+        "temperature_celcius": 11.36,
+        "dewpoint_celcius": 139.13,
+        "1_hour_precipitation_percentage": 0.86,
+        "clouds_percentage": 75,
+        "relative_humidity_percentage": 87,
+        "pressure_hpa": 1001,
+        "wind_speed_mps": 5.66,
+        "visibility_km": 4.9,
+        "sunrise_hour": 3,
+        "sunset_hour": 19,
+        "1_hour_snow_percentage": 0.0,
+        "aqi": 1,
+        "pm2_5": 2,
+        "pm10": 2.27,
+        "so2": 4.65,
+        "no": 0,
+        "no2": 12.85,
+        "co": 206.95,
+        "o3": 43.63,
+        "nh3": 0.43
     }
 }
