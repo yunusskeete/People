@@ -6290,7 +6290,29 @@
         "o3": 43.63,
         "nh3": 0.43
     },
-    "2022-05-23 23:41:00": {},
+    "2022-05-23 23:41:00": {
+        "weather_code": 500,
+        "temperature_celcius": 11.82,
+        "dewpoint_celcius": 138.99,
+        "1_hour_precipitation_percentage": 0.86,
+        "clouds_percentage": 75,
+        "relative_humidity_percentage": 83,
+        "pressure_hpa": 1001,
+        "wind_speed_mps": 4.12,
+        "visibility_km": 10.0,
+        "sunrise_hour": 3,
+        "sunset_hour": 19,
+        "1_hour_snow_percentage": 0.0,
+        "aqi": 1,
+        "pm2_5": 2,
+        "pm10": 2.27,
+        "so2": 4.65,
+        "no": 0,
+        "no2": 12.85,
+        "co": 206.95,
+        "o3": 43.63,
+        "nh3": 0.43
+    },
     "2022-05-23 23:46:00": {},
     "2022-05-23 23:51:00": {}
 }
