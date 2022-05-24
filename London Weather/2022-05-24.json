@@ -6067,8 +6067,8 @@
     "2022-05-24 23:11:00": {},
     "2022-05-24 23:16:00": {
         "weather_code": 800,
-        "temperature_celcius": 11.23,
-        "dewpoint_celcius": 138.67,
+        "temperature_celcius": 11.22,
+        "dewpoint_celcius": 138.66,
         "1_hour_precipitation_percentage": 0.0,
         "clouds_percentage": 6,
         "relative_humidity_percentage": 83,
