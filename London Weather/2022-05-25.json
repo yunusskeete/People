@@ -5288,5 +5288,28 @@
         "co": 206.95,
         "o3": 55.79,
         "nh3": 0.42
+    },
+    "2022-05-26 00:36:00": {
+        "weather_code": 802,
+        "temperature_celcius": 12.81,
+        "dewpoint_celcius": 139.63,
+        "1_hour_precipitation_percentage": 0.0,
+        "clouds_percentage": 28,
+        "relative_humidity_percentage": 84,
+        "pressure_hpa": 1018,
+        "wind_speed_mps": 5.14,
+        "visibility_km": 10.0,
+        "sunrise_hour": 3,
+        "sunset_hour": 20,
+        "1_hour_snow_percentage": 0.0,
+        "aqi": 1,
+        "pm2_5": 6.68,
+        "pm10": 10.27,
+        "so2": 4.29,
+        "no": 0,
+        "no2": 10.2,
+        "co": 206.95,
+        "o3": 55.79,
+        "nh3": 0.42
     }
 }
