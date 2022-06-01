@@ -6498,5 +6498,28 @@
         "co": 236.99,
         "o3": 0.01,
         "nh3": 0.47
+    },
+    "2022-06-02 00:36:00": {
+        "weather_code": 800,
+        "temperature_celcius": 10.74,
+        "dewpoint_celcius": 138.21,
+        "1_hour_precipitation_percentage": 0.0,
+        "clouds_percentage": 5,
+        "relative_humidity_percentage": 81,
+        "pressure_hpa": 1020,
+        "wind_speed_mps": 0.45,
+        "visibility_km": 10.0,
+        "sunrise_hour": 3,
+        "sunset_hour": 20,
+        "1_hour_snow_percentage": 0.0,
+        "aqi": 1,
+        "pm2_5": 6.73,
+        "pm10": 7.55,
+        "so2": 4.83,
+        "no": 23.25,
+        "no2": 26.39,
+        "co": 236.99,
+        "o3": 0.01,
+        "nh3": 0.47
     }
 }
