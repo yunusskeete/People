@@ -5661,7 +5661,7 @@
         "weather_code": 500,
         "temperature_celcius": 16.08,
         "dewpoint_celcius": 139.63,
-        "1_hour_precipitation_percentage": 0.27,
+        "1_hour_precipitation_percentage": 0.0,
         "clouds_percentage": 95,
         "relative_humidity_percentage": 68,
         "pressure_hpa": 1020,
