@@ -6567,5 +6567,28 @@
         "co": 186.92,
         "o3": 66.52,
         "nh3": 0.33
+    },
+    "2022-06-05 00:51:00": {
+        "weather_code": 500,
+        "temperature_celcius": 12.1,
+        "dewpoint_celcius": 139.14,
+        "1_hour_precipitation_percentage": 0.56,
+        "clouds_percentage": 75,
+        "relative_humidity_percentage": 83,
+        "pressure_hpa": 1019,
+        "wind_speed_mps": 5.66,
+        "visibility_km": 10.0,
+        "sunrise_hour": 3,
+        "sunset_hour": 20,
+        "1_hour_snow_percentage": 0.0,
+        "aqi": 1,
+        "pm2_5": 2.13,
+        "pm10": 2.97,
+        "so2": 2.21,
+        "no": 0,
+        "no2": 4.41,
+        "co": 186.92,
+        "o3": 66.52,
+        "nh3": 0.33
     }
 }
