@@ -5637,8 +5637,8 @@
     "2022-06-17 22:11:00": {},
     "2022-06-17 22:16:00": {
         "weather_code": 800,
-        "temperature_celcius": 24.63,
-        "dewpoint_celcius": 141.82,
+        "temperature_celcius": 24.52,
+        "dewpoint_celcius": 141.77,
         "1_hour_precipitation_percentage": 0.0,
         "clouds_percentage": 0,
         "relative_humidity_percentage": 52,
