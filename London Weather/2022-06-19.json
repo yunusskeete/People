@@ -6406,5 +6406,28 @@
         "co": 166.89,
         "o3": 57.94,
         "nh3": 0.51
+    },
+    "2022-06-20 00:16:00": {
+        "weather_code": 803,
+        "temperature_celcius": 13.33,
+        "dewpoint_celcius": 139.61,
+        "1_hour_precipitation_percentage": 0.0,
+        "clouds_percentage": 81,
+        "relative_humidity_percentage": 81,
+        "pressure_hpa": 1016,
+        "wind_speed_mps": 3.6,
+        "visibility_km": 10.0,
+        "sunrise_hour": 3,
+        "sunset_hour": 20,
+        "1_hour_snow_percentage": 0.0,
+        "aqi": 1,
+        "pm2_5": 1.82,
+        "pm10": 2.13,
+        "so2": 2.41,
+        "no": 0,
+        "no2": 5.57,
+        "co": 166.89,
+        "o3": 57.94,
+        "nh3": 0.51
     }
 }
