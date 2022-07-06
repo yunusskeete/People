@@ -6497,5 +6497,28 @@
         "co": 150.2,
         "o3": 43.27,
         "nh3": 1.35
+    },
+    "2022-07-07 00:31:00": {
+        "weather_code": 803,
+        "temperature_celcius": 17.74,
+        "dewpoint_celcius": 141.11,
+        "1_hour_precipitation_percentage": 0.0,
+        "clouds_percentage": 77,
+        "relative_humidity_percentage": 73,
+        "pressure_hpa": 1025,
+        "wind_speed_mps": 5.14,
+        "visibility_km": 10.0,
+        "sunrise_hour": 3,
+        "sunset_hour": 20,
+        "1_hour_snow_percentage": 0.0,
+        "aqi": 1,
+        "pm2_5": 1.13,
+        "pm10": 1.83,
+        "so2": 2.24,
+        "no": 0,
+        "no2": 4.76,
+        "co": 150.2,
+        "o3": 43.99,
+        "nh3": 1.24
     }
 }
