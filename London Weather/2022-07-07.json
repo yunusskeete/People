@@ -1782,5 +1782,28 @@
         "co": 195.27,
         "o3": 4.02,
         "nh3": 1.3
+    },
+    "2022-07-08 23:56:00": {
+        "weather_code": 800,
+        "temperature_celcius": 17.11,
+        "dewpoint_celcius": 140.77,
+        "1_hour_precipitation_percentage": 0.0,
+        "clouds_percentage": 5,
+        "relative_humidity_percentage": 73,
+        "pressure_hpa": 1033,
+        "wind_speed_mps": 2.06,
+        "visibility_km": 10.0,
+        "sunrise_hour": 3,
+        "sunset_hour": 20,
+        "1_hour_snow_percentage": 0.0,
+        "aqi": 2,
+        "pm2_5": 5.32,
+        "pm10": 6.85,
+        "so2": 4.47,
+        "no": 2.63,
+        "no2": 47.3,
+        "co": 195.27,
+        "o3": 4.02,
+        "nh3": 1.3
     }
 }
